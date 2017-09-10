@@ -11,10 +11,8 @@ comments: true
 credit: CDA/LVL1/OPI2/LouieLab
 creditlink: http://www.cividataalliance.org
 ---
-# Hack for Change event prep #HackTheVille  
-
-### It's time to #HackTheVille, ya'll!
-
+# Hack for Change event prep #HackTheVille
+## It's time to #HackTheVille, ya'll!  
 Join us at #HackTheVille night at LouieLab with [Metro Louisville's OPI2](https://louisvilleky.gov/government/performance-improvement-innovation) for National Day of Civic Hacking (NDoCH) Hack for Change project and event prep.  
 
 We'll be sourcing ideas, setting up repos and gathering resources, come join the fun and help make Louisville an even more awesome place to live, work and learn.  
