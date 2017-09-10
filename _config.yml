@@ -1,0 +1,93 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole site, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing these this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Civic Data Alliance
+description: All the Data for We the People.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: http://www.civicdataalliance.org # the base hostname & protocol for your site, e.g. http://example.com
+github_repo:  # the GitHub repo name for your project
+github_username: civicdata
+
+# Optional social link, you can choose from the following options:
+# twitter (default), instagram, medium, or dribbble
+social_link: twitter
+social_username: CivicDataAlly
+#twitter: CivicDataAlly
+#facebook: civicdata
+github: civicdata
+stackoverflow:
+linkedin:
+instagram:
+lastfm:
+tumblr:
+pinterest:
+foursquare:
+steam:
+dribbble:
+# For Google Authorship https://plus.google.com/authorship
+google_plus: 105717792509345258567
+meetup: Louisville-Civic-Data-Alliance
+
+# Analytics and webmaster tools stuff goes here
+google_analytics: UA-3244073-12
+google_analytics_site: civicdataalliance.org
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Links to include in top navigation
+# For external links add external: true
+# links:
+#   - title: About
+#     url: /about/
+#   - title: Posts
+#     url: /posts/
+#   - title: Projects
+#     url: /projects/
+#   - title: Forum
+#     url: /forum/
+#   - title: Data Sets
+#     url: http://data.civicdataalliance.org
+#     external: true
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title/
+# Set theme color here
+# Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
+theme_color: black
+
+# Build settings
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/Kentucky/Louisville
+future:      true
+highlighter: rouge
+markdown:    kramdown
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  syntax_highlighter: coderay
+
+  syntax_highlighter_opts:
+    line_numbers:
+    line_numbers_start: 1
+    tab_width: 4
+    bold_every: 10
+    css: class
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
