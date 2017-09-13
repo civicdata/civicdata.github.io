@@ -14,7 +14,7 @@ creditlink: http://www.cividataalliance.org
 # Annual Data for Democracy Hackathon in Louisville
 [__Data For Democracy__](http://datafordemocracy.org/) has announced the next Data For Democracy Global Hackathon and Louisville is one of only nine cities hosting an onsite event, so yasssss!  
 
-<a class="button" target="_blank" style="color: #2C2D30;font-weight: bold;border-radius: 3px; background: #00c9cf; padding: 10px;text-align:center;" alt="Register Here!" title="hackathon tickets" href="https://www.eventbrite.com/e/data-for-democracy-louisville-hack-a-thon-tickets-33048900150">Get your tickets</a>
+<a class="button" target="_blank" style="color: #2C2D30;font-weight: bold;border-radius: 3px; background: #00c9cf; padding: 10px;text-align:center;" alt="Register Here!" title="hackathon tickets" href="https://www.meetup.com/Louisville-Civic-Data-Alliance/events/242296870/">Get your tickets</a>
 
 Come represent the Ville and hack with [__Data For Democracy__](http://datafordemocracy.org/), [__Black Lives Matter Louisville__](https://www.facebook.com/blacklivesmatterlouisville/), [__Mijente__](http://mijente.net/) and [__Civic Data Alliance__](http://www.cividataalliance.org) for D4D's global hackathon at the always awesome space, LouieLab.  
 
@@ -24,6 +24,6 @@ All skill levels are welcome, come out and get involved!
 
 The Hackathon will conclude with a showcase on Oct 1, 3 pm EST, when the D4D community will display and demonstrate what they built during the Hackathon, in a series of short presentations.  
 
-Don’t worry about not knowing anyone?—by the end of the Hackathon, you will. Anyone can participate, [_click here_](https://www.meetup.com/Louisville-Civic-Data-Alliance/events/242296870/?eventId=242296870) to get your free event tickets.  
+Don’t worry about not knowing anyone?—by the end of the Hackathon, you will. Anyone can participate, [_click here_](https://www.meetup.com/Louisville-Civic-Data-Alliance/events/242296870/) to get your free event tickets.  
 
 We're looking forward to building something awesome with you!
