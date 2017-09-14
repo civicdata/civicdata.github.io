@@ -18,9 +18,9 @@ creditlink: http://www.cividataalliance.org
 
 Come represent the Ville and hack with [__Data For Democracy__](http://datafordemocracy.org/), [__Black Lives Matter Louisville__](https://www.facebook.com/blacklivesmatterlouisville/), [__Mijente__](http://mijente.net/) and [__Civic Data Alliance__](http://www.cividataalliance.org) for D4D's global hackathon at the always awesome space, LouieLab.  
 
-This is a hackathon to confront data security issues faced by those who are targets of threats and violence from the alt-right. At this event, different groups will share the unique data security threats they face from the alt-right. As a community, we will identify ways and attempt to build solutions to counter these efforts.  
+This is a hackathon to confront data security issues faced by those who are targets of threats and violence from the alt-right. At this event, different groups will share the unique data security threats they face from the alt-right. As a community, we will identify ways and attempt to build solutions to counter these efforts. Also available - projects that focus on identifying and countering fake news distributed by alt-right. 
 
-All skill levels are welcome, come out and get involved!  
+All skill levels are welcome, come out and get involved!
 
 The Hackathon will conclude with a showcase on Oct 1, 3 pm EST, when the D4D community will display and demonstrate what they built during the Hackathon, in a series of short presentations.  
 
