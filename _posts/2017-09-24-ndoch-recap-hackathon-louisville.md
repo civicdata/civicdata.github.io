@@ -12,7 +12,7 @@ credit: CDA/CfA
 creditlink: http://www.cividataalliance.org
 ---
 # NDoCH Recap  
-Thank you to all of the civic hackers who attended the event, Mayor Greg Fischer, Grace Simral and our sponsor, Forest Giant. You made the event a huge success.  
+Thank you to all of the civic hackers who attended the event, Mayor Greg Fischer, Grace Simrall and our sponsor, Forest Giant. You made the event a huge success.  
 
 ## Projects  
 **Louisville Food Dessert**  
