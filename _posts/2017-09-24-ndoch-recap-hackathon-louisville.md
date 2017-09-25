@@ -15,12 +15,12 @@ creditlink: http://www.cividataalliance.org
 Thank you to all of the civic hackers who attended the event, Mayor Greg Fischer, Grace Simrall and our sponsor, Forest Giant. You made the event a huge success.  
 
 ## Projects  
-**Louisville Food Dessert**  
+**Louisville Food Desert**  
 Team: Amy Shah, Lorinda Peoples, Justin Carver, Holly and T. Montgomery  
 [__Project website__](https://louisvillefooddesert.wordpress.com)  
 `Urban areas of Louisville, KY suffer from lack of access to full-service grocery stores.  This group is trying to understand the problem in a more in-depth and clear way. Our group plans to propose solutions if possible.`  
 
-**Vacant/Abandonded Properties Cost**  
+**Vacant/Abandoned Properties Cost**  
 Team: Sara Anderson, Rebecca Wheeling, Lauren Kimme, Stan Siranovich, Steve Watkins, Austyn Hill, Robert Kahne    
 [__Project repo__](https://github.com/civicdata/houses17)  
 `During the National Day of Civic Hacking on September 23, 2017, and group from Louisville, Kentucky investigated the vacant and abandoned properties in Louisville. The team decided to use various data sources on the Louisville Open Data Portal to determine the cost to the city of maintaining the properties, and the revenues which might be collected from the properties.`  
