@@ -18,21 +18,26 @@ The __Civic Data Alliance__ (CDA) is Louisville's [__Code for America Brigade__]
 *We are the public's voice for open data, interested in liberating, improving, gathering, defining, and reporting on public data.*  
 
 ## Captains  
-__Anthony Bouvier__ [@thebouv](https://twitter.com/thebouv)  
-__Margeaux Spring__  [@cheapwebmonkey](https://twitter.com/cheapwebmonkey)  
-__Robert Kahne__  [@rkahne](https://twitter.com/rkahne)  
+__Anthony Bouvier__ [@thebouv](https://twitter.com/thebouv){:target="_blank"}  
+__Margeaux Spring__  [@cheapwebmonkey](https://twitter.com/cheapwebmonkey){:target="_blank"} [GitHub](https://github.com/cheapwebmonkey){:target="_blank"}  
+__Robert Kahne__  [@rkahne](https://twitter.com/rkahne){:target="_blank"}  
 
 ### Core Members  
-Austyn Hill [@thelilacllama](https://twitter.com/thelilacllama)  
-Becky Steele [@ladyofsteele](https://twitter.com/ladyofsteele)  
-Chris Harrell  [@lazarusllc](https://twitter.com/LazarusLLC)  
-Dave Mattingly  [@Dave_Mattingly](https://twitter.com/dave_mattingly)     
-Pat Smith [@cityresearch](https://twitter.com/CityResearch)   
+__Chris Harrell__  [@lazarusllc](https://twitter.com/LazarusLLC){:target="_blank"}  
+__Pat Smith__ [@cityresearch](https://twitter.com/CityResearch){:target="_blank"}  
+__Becky Steele__ [@ladyofsteele](https://twitter.com/ladyofsteele){:target="_blank"}  
+__Tyler Mullins__ [@designrationale](https://twitter.com/designrationale){:target="_blank"}  
+__Leigh Prince__ [GitHub](https://github.com/leighPri){:target="_blank"}  
+__Bethany Patrick__ [@fleshskeleton](https://twitter.com/fleshskeleton){:target="_blank"}  
+__Becky Steele__ [@ladyofsteele](https://twitter.com/ladyofsteele){:target="_blank"}  
+__Austyn Hill__ [@thelilacllama](https://twitter.com/thelilacllama){:target="_blank"}  
+__Dave Mattingly__  [@dave_mattingly](https://twitter.com/dave_mattingly){:target="_blank"}  
+
 
 ### Municipal Partners  
-Ed Blayney [@edblayney](https://twitter.com/edblayney) - Innovation Project Manager, [Office of Performance Improvement and Innovation](https://louisvilleky.gov/government/performance-improvement-innovation/about-us)   
-Matthew Gotth-Olsen [@mattgolsen](https://twitter.com/mattgolsen) - Innovation Project Manager, [Office of Performance Improvement and Innovation](https://louisvilleky.gov/government/performance-improvement-innovation/about-us)   
-Michael Schnuerle [@LouDataOfficer](http://www.twitter.com/LouDataOfficer) - Data Officer, [Mayor's Staff/Office of Performance Improvement and Innovation](http://louisvilleky.gov/government/mayor-greg-fischer/mayors-staff)
+__Ed Blayney__ [@edblayney](https://twitter.com/edblayney){:target="_blank"} - Innovation Project Manager, [__Office of Performance Improvement and Innovation__](https://louisvilleky.gov/government/performance-improvement-innovation/about-us){:target="_blank"}  
+__Matthew Gotth-Olsen__ [@mattgolsen](https://twitter.com/mattgolsen){:target="_blank"} - Innovation Project Manager, [__Office of Performance Improvement and Innovation__](https://louisvilleky.gov/government/performance-improvement-innovation/about-us){:target="_blank"}  
+__Michael Schnuerle__ [@LouDataOfficer](http://www.twitter.com/LouDataOfficer){:target="_blank"} - Data Officer, [__Mayor's Staff/Office of Performance Improvement and Innovation__](http://louisvilleky.gov/government/mayor-greg-fischer/mayors-staff){:target="_blank"}
 
 ### Community Partners    
 [American Printing House for the Blind](http://www.aph.org/) | [Code Louisville](http://www.codelouisville.org/) | [KY Youth Advocates](http://kyyouth.org/) | [Louisville Public Media](http://louisvillepublicmedia.org/) | [Metro Safe and Healthy Neighborhoods](https://louisvilleky.gov/government/safe-neighborhoods) | [Network Center for Community Change](http://makechangetogether.org/) | [TARC](http://ridetarc.org/) | [The Courier-Journal](http://www.courier-journal.com/)
