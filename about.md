@@ -25,14 +25,13 @@ __Robert Kahne__  [@rkahne](https://twitter.com/rkahne){:target="_blank"}
 ### Core Members  
 __Chris Harrell__  [@lazarusllc](https://twitter.com/LazarusLLC){:target="_blank"}  
 __Pat Smith__ [@cityresearch](https://twitter.com/CityResearch){:target="_blank"}  
-__Becky Steele__ [@ladyofsteele](https://twitter.com/ladyofsteele){:target="_blank"}  
+__Bret Walker__ [@binarybret](https://twitter.com/BinaryBret){:target="_blank"}  
+__Shelley Hicklin__  
+__Becky Steele__ [@ladyofsteele](https://twitter.com/ladyofsteele){:target="_blank"}    
 __Tyler Mullins__ [@designrationale](https://twitter.com/designrationale){:target="_blank"}  
 __Leigh Prince__ [GitHub](https://github.com/leighPri){:target="_blank"}  
 __Bethany Patrick__ [@fleshskeleton](https://twitter.com/fleshskeleton){:target="_blank"}  
-__Becky Steele__ [@ladyofsteele](https://twitter.com/ladyofsteele){:target="_blank"}  
-__Austyn Hill__ [@thelilacllama](https://twitter.com/thelilacllama){:target="_blank"}  
-__Dave Mattingly__  [@dave_mattingly](https://twitter.com/dave_mattingly){:target="_blank"}  
-
+__Aaron Marks__ [@amdev83](https://twitter.com/amdev83){:target="_blank"}   
 
 ### Municipal Partners  
 __Ed Blayney__ [@edblayney](https://twitter.com/edblayney){:target="_blank"} - Innovation Project Manager, [__Office of Performance Improvement and Innovation__](https://louisvilleky.gov/government/performance-improvement-innovation/about-us){:target="_blank"}  
