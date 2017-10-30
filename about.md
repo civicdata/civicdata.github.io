@@ -59,6 +59,11 @@ People and companies that have made a tax-deductible <a href="http://bit.ly/Give
 [__WFPL__](http://www.wfpl.org/)  
 [__William Burke__](http://billstron.com/)
 
+### Event Sponsors
+People and companies that have supported our events by donating food and refreshments.  
+[__Forest Giant__](https://www.forestgiant.com/)  
+[__TEKsystems__](https://www.teksystems.com/)  
+
 <!-- **History and Leadership**  
 Louisville's Code for America Brigade was founded in December of 2012 by Michael Schnuerle after partnering with Louisville Metro since 2011 to open crime, restaurant, and permit data, creating interactive maps for the city, and advising on the city's open data portal launch in October 2011.
 
