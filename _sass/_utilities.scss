@@ -39,7 +39,7 @@
 
 
 /* Theme color utilities */
-.header-background { background-color: $color-background; }
+.header-background { background-color: $color-background; background-image: url(../images/header-background.jpg); background-size:cover; }
 .header-border { border-color: $color-foreground; }
 .header-title { color: $color-title; }
 .header-text { color: $color-foreground; }
