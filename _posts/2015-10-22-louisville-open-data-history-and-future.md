@@ -4,7 +4,7 @@ title: Open Data in Louisville
 description: "Louisville's Open Data Past, Present, and Future: History and Road Map"
 date: 2015-10-22
 modified: 2015-10-27
-categories: writing projects
+categories: blog
 tags: [louisville,open data,history,future,ky,metro]
 comments: true
 image:

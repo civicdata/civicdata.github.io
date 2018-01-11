@@ -3,7 +3,7 @@ layout: post
 title: "#HackTheVille & Arduino"
 description: "Nathan Armentrout from LVL1 will be helping anyone who wants to learn the basics of electronics from writing code to wiring sensors together. No need to bring your own stuff, LVL1 will provide its classroom kit of Arduinos for hacking. Because they are awesome. Let the fun (and Skynet) begin!"
 date: 2017-07-05
-categories: writing hacktheville
+categories: blog hacktheville
 tags: [hacktheville,louisville,codeforamerica,cfa,hackathon,opendata,2017,Kentucky]
 image:
   feature: banner2.jpg
