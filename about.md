@@ -28,9 +28,10 @@ __Pat Smith__ [@cityresearch](https://twitter.com/CityResearch){:target="_blank"
 __Bret Walker__ [@binarybret](https://twitter.com/BinaryBret){:target="_blank"}  
 __Shelley Hicklin__  
 __Becky Steele__ [@ladyofsteele](https://twitter.com/ladyofsteele){:target="_blank"}    
-__Tyler Mullins__ [@designrationale](https://twitter.com/designrationale){:target="_blank"}  
+__Tyler Mullins__ [@tylermullinsdev](https://twitter.com/designrationale){:target="_blank"}
+[GitHub](https://github.com/jessetylermullins){:target="_blank"}
 __Leigh Prince__ [GitHub](https://github.com/leighPri){:target="_blank"}  
-__Bethany Patrick__ [@fleshskeleton](https://twitter.com/fleshskeleton){:target="_blank"}  
+__Bethany Patrick__   
 __Aaron Marks__ [@amdev83](https://twitter.com/amdev83){:target="_blank"}   
 
 ### Municipal Partners  
