@@ -1,0 +1,27 @@
+---
+layout: none
+<!-- https://ndarville.com/blog/2017/05/19/json-feed-for-jekyll/ -->
+---
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": {{ site.name | smartify | jsonify }},
+    {% if site.description %}"description": {{ site.description | smartify | jsonify }},{% endif %}
+    "home_page_url": "{{ site.url }}/",
+    "feed_url": "{{ site.url }}/feed.json",
+    "icon": "{{ site.url }}/images/identicon.png",
+    {% comment %}"favicon": "",{% endcomment %}
+    "expired": false,
+    "items": [
+{% for post in site.events %}
+        {
+            "id": "{{ post.id }}",
+            "title": {{ post.title | smartify | jsonify }},
+            "content_html": {{ post.content | jsonify }},
+            "url": "{{ site.url }}{{ post.url }}",
+            "summary": {{ post.excerpt | smartify | jsonify }},
+            "date_published": "{{ post.date }}"
+            {% comment %}"author": "{{ post.author }}"{% endcomment %}
+        }{% unless forloop.last == true %},{% endunless %}
+{% endfor %}
+    ]
+}

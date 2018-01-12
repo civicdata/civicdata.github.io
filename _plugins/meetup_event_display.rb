@@ -1,3 +1,5 @@
+# https://medium.com/@jameshamann/displaying-medium-posts-on-your-jekyll-website-7eef230309e4
+
 require 'feedjira'
 module Jekyll
   class MeetupPostDisplay < Generator

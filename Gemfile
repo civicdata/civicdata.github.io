@@ -5,3 +5,4 @@ gem 'thor'
 gem 'activesupport'
 gem 'stringex'
 gem "jekyll-paginate"
+gem "feedjira"
