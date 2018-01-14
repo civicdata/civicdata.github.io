@@ -10,6 +10,17 @@
   {% assign full_base_url = user_url | default: site.github.url %}
   <link rel="stylesheet" href="{{ "/assets/style.css" | prepend: full_base_url }}">
 
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png?v=new_logo">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png?v=new_logo">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png?v=new_logo">
+  <link rel="manifest" href="/images/favicon/manifest.json?v=new_logo">
+  <link rel="mask-icon" href="/images/favicon/safari-pinned-tab.svg?v=new_logo" color="#5bbad5">
+  <link rel="shortcut icon" href="/images/favicon/favicon.ico?v=new_logo">
+  <meta name="apple-mobile-web-app-title" content="Civic Data Alliance">
+  <meta name="application-name" content="Civic Data Alliance">
+  <meta name="msapplication-config" content="/images/favicon/browserconfig.xml?v=new_logo">
+  <meta name="theme-color" content="#ffffff">
+
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 
