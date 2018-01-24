@@ -2,7 +2,7 @@
 layout: post
 title:  "Minecraft Louisville"
 date:   2014-09-24
-categories: projects, hackathons
+categories: projects hackathons
 tags: [louisville,gis,minecraft]
 comments: true
 image:
