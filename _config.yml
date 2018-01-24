@@ -19,6 +19,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: http://www.civicdataalliance.org # the base hostname & protocol for your site, e.g. http://example.com
 github_repo:  # the GitHub repo name for your project
 github_username: civicdata
+join_link: https://cda2.typeform.com/to/zTNiLP
 
 # Optional social link, you can choose from the following options:
 # twitter (default), instagram, medium, or dribbble
