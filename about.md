@@ -77,4 +77,4 @@ As of June 2015, over 300 people and volunteers have participated in our hackath
 
 We've had **16 meetups**, run **9 hackathons**, worked on **35 civic public projects**, and donated over **7,000 hours** of volunteer time to the community! -->
 #### Code of Conduct  
-All members, volunteers, and event participants agree to abide by [__The Code for America Code of Conduct and Anti-Harassment Policy__](https://github.com/codeforamerica/codeofconduct)
+All members, volunteers, and event participants agree to abide by [__Civic Data Alliance Code of Conduct__](https://github.com/civicdata/civicdata.github.io/blob/master/CODE_OF_CONDUCT.md)

@@ -4,7 +4,7 @@ title: "National Day of Civic Hacking"
 description: "Hack for Change Louisville was held as the city’s official Code for America National Day of Civic Hacking event, one of over 100 simultaneous events across the United States. The day brought together local government leaders and staff, local organizations, non-profits, businesses, visitors, and community members and was focused on civic innovation."
 date: 2015-05-21
 modified: 2015-06-10
-categories: projects, hackathons
+categories: projects hackathons
 tags: [louisville,codeforamerica,cfa,hackforchange,ndoch,2015]
 comments: true
 image:
