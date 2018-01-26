@@ -27,11 +27,15 @@ __Chris Harrell__  [@lazarusllc](https://twitter.com/LazarusLLC){:target="_blank
 __Pat Smith__ [@cityresearch](https://twitter.com/CityResearch){:target="_blank"}  
 __Bret Walker__ [@binarybret](https://twitter.com/BinaryBret){:target="_blank"}  
 __Shelley Hicklin__  
-__Becky Steele__ [@ladyofsteele](https://twitter.com/ladyofsteele){:target="_blank"}    
 __Tyler Mullins__ [@tylermullinsdev](https://twitter.com/tylermullinsdev){:target="_blank"} [GitHub](https://github.com/jessetylermullins){:target="_blank"}<br>
 __Leigh Prince__ [GitHub](https://github.com/leighPri){:target="_blank"}  
 __Bethany Patrick__   
 __Aaron Marks__ [@amdev83](https://twitter.com/amdev83){:target="_blank"}   
+__Mike Culbertson__   
+__Cody McPheron__   
+__Eric Bickel__   
+__Zach Bouvier__   
+__Dawn Howard__   
 
 ### Municipal Partners  
 __Ed Blayney__ [@edblayney](https://twitter.com/edblayney){:target="_blank"} - Innovation Project Manager, [__Office of Performance Improvement and Innovation__](https://louisvilleky.gov/government/performance-improvement-innovation/about-us){:target="_blank"}  
