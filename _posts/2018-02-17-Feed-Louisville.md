@@ -6,7 +6,7 @@ tags: [feed louisville, hackathon, food insecurity, LCCC]
 event_time: Feb. 17th, 9:00am - 4:00pm
 location: LCCC, Humana
 link: 'https://www.meetup.com/Louisville-Civic-Data-Alliance/events/246237565/'
-summary: Through a combination of corporate sponsors and grassroots/non-profit partners, Civic Data Alliance wants to focus on the issue of food insecurity here in Louisville with our Feed Louisville Hackathon on February 17, 2018. We will hear from our partners what ways we can use data and technology to help promote food justice here in Louisville and then spend the day building out or working on projects to combat the oppression known as food insecurity. Please join us and our co-hosts on 2/17 to help our communities! Bring your laptop, tablet, smartphone, notepad, and/or head full of ideas! 
+summary: Through a combination of corporate sponsors and grassroots/non-profit partners, Civic Data Alliance wants to focus on the issue of food insecurity here in Louisville with our Feed Louisville Hackathon on February 17, 2018. We will hear from our partners what ways we can use data and technology to help promote food justice here in Louisville and then spend the day building out or working on projects to combat the oppression known as food insecurity. Please join us and our co-hosts on 2/17 to help our communities! Bring your laptop, tablet, smartphone, notepad, and/or head full of ideas!
 image:
   feature:
 comments: true
@@ -32,6 +32,7 @@ Through a combination of corporate sponsors and grassroots/non-profit partners, 
 ### Hosts and Sponsors:
 Civic Data Alliance
 Metro Louisville OPI2
+New Roots, Inc
 Humana
 Dare to Care
 Good to Grow Green
