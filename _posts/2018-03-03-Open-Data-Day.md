@@ -23,7 +23,7 @@ For [_Open Data Day_](http://opendataday.org) on March 3, 2018, Civic Data Allia
 
 Part of advocating for and being an open and transparent civic organization is advocating for openness and transparency in all civic areas, not just the data. As members of the data community, we believe it is imperative to create avenues for our greater Louisville community to understand, implement, and manipulate open data and the Open Data Portal in the spirit of transparency and civic engagement.
 
-Besides the Open Data Workshop, we will also have the opportunity to work on The Code of Ethics in Data Science project with Data for Democracy featured in this article, as well as other projects.
+Besides the Open Data Workshop, we will also have the opportunity to work on The Code of Ethics in Data Science project with [_Data for Democracy_](http://datafordemocracy.org) featured in [_this article_](https://www.linkedin.com/pulse/code-ethics-data-science-dj-patil/), as well as other projects.
 
 We welcome people of all skills and experiences to join us on March 3.
 
