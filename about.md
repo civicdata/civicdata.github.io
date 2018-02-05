@@ -25,7 +25,6 @@ __Robert Kahne__  [@rkahne](https://twitter.com/rkahne){:target="_blank"}
 ### Core Members  
 __Chris Harrell__  [@lazarusllc](https://twitter.com/LazarusLLC){:target="_blank"}  
 __Pat Smith__ [@cityresearch](https://twitter.com/CityResearch){:target="_blank"}  
-__Bret Walker__ [@binarybret](https://twitter.com/BinaryBret){:target="_blank"}  
 __Shelley Hicklin__  
 __Tyler Mullins__ [@tylermullinsdev](https://twitter.com/tylermullinsdev){:target="_blank"} [GitHub](https://github.com/jessetylermullins){:target="_blank"}<br>
 __Leigh Prince__ [GitHub](https://github.com/leighPri){:target="_blank"}  
