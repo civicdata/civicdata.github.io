@@ -19,7 +19,7 @@ What can it be used for?
 Why is it important?
 Where can I find it?
 
-For Open Data Day on March 3, 2018, Civic Data Alliance, in conjunction with Code for America, D4D and OPI2, presents a workshop on Open Data and Louisville Metroâ€™s Open Data Portal. We want to be a force for educating the general public on what open data is and how it can be used for our community. CDA advocates for openness and transparency in data from our government and for these same principles in our government itself, including it's officials, actions, policies, procedures and departments.
+For [_Open Data Day_](http://opendataday.org) on March 3, 2018, Civic Data Alliance, in conjunction with Code for America, D4D and OPI2, presents a workshop on Open Data and Louisville Metroâ€™s Open Data Portal. We want to be a force for educating the general public on what open data is and how it can be used for our community. CDA advocates for openness and transparency in data from our government and for these same principles in our government itself, including it's officials, actions, policies, procedures and departments.
 
 Part of advocating for and being an open and transparent civic organization is advocating for openness and transparency in all civic areas, not just the data. As members of the data community, we believe it is imperative to create avenues for our greater Louisville community to understand, implement, and manipulate open data and the Open Data Portal in the spirit of transparency and civic engagement.
 
