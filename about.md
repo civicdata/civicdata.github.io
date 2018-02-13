@@ -67,17 +67,53 @@ People and companies that have supported our events by donating food and refresh
 [__Forest Giant__](https://www.forestgiant.com/)  
 [__TEKsystems__](https://www.teksystems.com/)  
 
-<!-- **History and Leadership**  
-Louisville's Code for America Brigade was founded in December of 2012 by Michael Schnuerle after partnering with Louisville Metro since 2011 to open crime, restaurant, and permit data, creating interactive maps for the city, and advising on the city's open data portal launch in October 2011.
+### History
+Louisville's Code for America Brigade was founded in December of 2012 by Michael Schnuerle after having partnered with Louisville Metro starting in 2011 to open crime, restaurant, and permit data, creating interactive maps for the city, and advising on the city's open data portal launch in October 2011.
 
-On September 2013, the Civic Data Alliance was created by [Patrick Smith](http://citycollaborative.org/), [Bret Walker](http://www.louiewatch.com/), [Chris Harrell](http://www.lazarusllc.com/) and [Michael Schnuerle](http://www.yourmapper.com/) to be a voice for citizens.
+In September 2013, the Civic Data Alliance was created by [Patrick Smith](http://citycollaborative.org/), Bret Walker, [Chris Harrell](http://www.lazarusllc.com/) and [Michael Schnuerle](http://www.yourmapper.com/) to be a community voice for liberating, improving, gathering, defining, and reporting on public data.
 
-The CDA was merged with the Louisville Brigade in May 2014 when it became a Member CfA Brigade.
+The CDA was merged with the Louisville CfA Brigade in May 2014 when it became a Member CfA Brigade.
 
-In December 2014 we reached official Brigade status with Code for America.
+In December 2014 the CDA reached official Brigade status with Code for America.
 
-As of June 2015, over 300 people and volunteers have participated in our hackathons, meetups, and events.  Thank you!
+### Press
+Insider Louisville - [IoT Hackathon](https://insiderlouisville.com/metro/vision/join-the-iot-hackathon/)  
 
-We've had **16 meetups**, run **9 hackathons**, worked on **35 civic public projects**, and donated over **7,000 hours** of volunteer time to the community! -->
-#### Code of Conduct  
+WFPL - [Day Long Hackathon](http://wfpl.org/day-long-hackathon-turns-techies-loose-louisvilles-problems/)  
+
+Louisville Metro - [Second Annual Open Data Report](https://louisvilleky.gov/news/49-new-data-sets-added-louisville-metro-website-over-last-year)
+
+Insider Louisville - [Metro government touts efforts to provide open data](http://insiderlouisville.com/metro/accountability/louisville-continues-make-good-promise-providing-open-data/)
+
+Metro Louisville Mayor - [Open Data Portal is powerful toolbox for creative minds](https://louisvilleky.gov/news/open-data-portal-powerful-toolbox-creative-minds)
+
+Courier-Journal - [Louisville hackers code for public good](http://www.courier-journal.com/story/news/local/2015/06/07/louisville-hackers-code-public-good/28666213/)
+
+WFPL - [How Computer Hacking Can Improve Louisville’s Public Policy](http://wfpl.org/how-computer-hacking-can-improve-louisvilles-public-policy/)
+
+Brian Bohannon - [Photos of Louisville’s National Code for America Hackathon](http://brianbohannon.com/2015/louisville-hackers-code-for-public-good/2357/)
+
+Insider Louisville - [Largest-ever national convening of civic hackers set for Saturday](http://insiderlouisville.com/startups/ecosystem/civic-data-alliance-hosts-national-day-civic-hacking-weekend/)
+
+Insider Louisville - [Civic hackers face heavy financial obstacle for data from Jefferson County PVA](http://insiderlouisville.com/metro/social_good/civic-hackers-face-heavy-financial-obstacle-data-jefferson-county-pva/)
+
+Code for America - [This Week in #CivicTech: Open Data for the Blind](http://www.codeforamerica.org/blog/2015/05/21/this-week-in-civictech-open-data-for-the-blind/)
+
+Insider Louisville - [Louisville crime reports flawed due to data input methods](http://insiderlouisville.com/news/data/)
+
+Courier-Journal - [Reno-Weber: Using data to build a better life](http://www.courier-journal.com/story/opinion/2015/05/16/greater-louisville-project-data-driven-community-outcomes/27463879/)
+
+American Printing House for the Blind - [Second Hacking Event at APH: Coders needed](http://www.aph.org/pr/20150303-Louisville-Civic-Data-Alliance-to-hold-Second-Civic-Hacking-Event.html)
+
+Louisville Digital Association - [Civic Hacking Event at American Printing House for the Blind ](http://www.louisvilledigital.org/events/louisvilles-civic-data-alliance-to-hold-second-civic-hacking-event-at-american-printing-house-for-the-blind-on-march-21-coders-needed/)
+
+Broken Sidewalk - [What the CDA’s Voter Turnout Map means for Louisville](http://brokensidewalk.com/2014/voter-turnout-map/)
+
+Insider Louisville - [Louisville Mayor's Open Data Executive Order](http://insiderlouisville.com/news/major-score-persistence-week-mayor-greg-fischer-signs-executive-order-open-data-plan/)
+
+Insider Louisville - [Success and roadblocks: #Hackville draws 40 people interested in civic change](http://insiderlouisville.com/metro/social_good/hackville-draws-40-people-interested-in-civic-change/)
+
+Broken Sidewalk - [Q+A with Michael Schnuerle & the Louisville Transportation Camp](http://brokensidewalk.com/2011/an-open-data-qa-with-michael-schnuerle-and-the-louisville-transportation-camp/)
+
+### Code of Conduct  
 All members, volunteers, and event participants agree to abide by [__Civic Data Alliance Code of Conduct__](https://github.com/civicdata/civicdata.github.io/blob/master/CODE_OF_CONDUCT.md)
