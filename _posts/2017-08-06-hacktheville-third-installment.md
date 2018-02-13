@@ -10,6 +10,7 @@ image:
 comments: true
 credit: CDA/LVL1/OPI2/LouieLab
 creditlink: http://www.cividataalliance.org
+redirect_from: /hacktheville-third-installment/
 ---
 
 # Eclipse Standup & Storytelling with Carto mapping at HackTheVille  

@@ -10,6 +10,7 @@ image:
   feature: banner-osmbuildings.png
   credit: OpenStreetMap
   creditlink: https://www.openstreetmap.org/#map=15/38.2361/-85.7220
+redirect_from: /gis-open-data-american-printing-house-open-street-map
 ---
 # Helping the Visually Impaired Navigate Louisville Using Open Data
 The CDA hosted two [CodeAcross 2015](http://www.codeforamerica.org/events/codeacross-2015/) events in Louisville on [February 21](http://www.meetup.com/Louisville-Civic-Data-Alliance/events/219829803/) and [March 21](http://www.meetup.com/Louisville-Civic-Data-Alliance/events/220786152/). Dedicated volunteers converged on the  Urban Design Studio and the American Printing House for the Blind for two days of OpenStreetMap learning and editing, in support of the American Printing House for the Blind’s ‘Nearby Explorer’ app.  [Nearby Explorer](https://play.google.com/store/apps/details?id=org.aph.avigenie) is an advanced GPS solution recently released for Android smartphones by the American Printing House for the blind. The app gives the visually impaired and the blind audible cues about their immediate surroundings, and directions to places they would like to go.

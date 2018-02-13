@@ -10,6 +10,7 @@ image:
 comments: true
 credit: Margeaux Spring/Becky Steele/Robert Kahne/Ed Blaney/Pat Smith/Chris Harrell/Matt Gotth-Olsen
 creditlink: http://www.cividataalliance.org
+redirect_from: /inaugural-hacktheville-night-louisville
 ---
 
 ## Come help #HackTheVille:

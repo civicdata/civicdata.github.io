@@ -10,6 +10,7 @@ image:
 comments: true
 credit: CDA/LVL1/OPI2/LouieLab
 creditlink: http://www.cividataalliance.org
+redirect_from: /hacktheville-second-installment
 ---
 
 It's time to #HackTheVille, ya'll!

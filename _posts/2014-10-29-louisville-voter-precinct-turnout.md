@@ -10,6 +10,7 @@ image:
   feature: banner-voting.png
   credit: Civic Data Alliance
   creditlink: http://projects.civicdataalliance.org/voter-turnout/
+redirect_from: /louisville-voter-precinct-turnout
 ---
 # Louisville Voter Precinct Turnout Map
 Secretary of State Grimes office recently released the [turnout statistics](http://elect.ky.gov/statistics/Pages/turnoutstatistics.aspx) for last May’s Primary Election.

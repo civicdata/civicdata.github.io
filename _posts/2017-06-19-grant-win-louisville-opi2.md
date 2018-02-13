@@ -10,6 +10,7 @@ image:
 comments: true
 credit: OPI2/LouieLab
 creditlink: http://www.cividataalliance.org
+redirect_from: /grant-win-louisville-opi2
 ---
 
 # Amazon Web Services's City on a Cloud Award Winner
