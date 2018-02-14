@@ -5,15 +5,15 @@ categories: events hackathons
 tags: [feed louisville, hackathon, food insecurity, LCCC]
 event_time: Feb. 17th, 9:00am - 4:00pm
 location: LCCC
-link: 'https://www.meetup.com/Louisville-Civic-Data-Alliance/events/246237565/'
-summary: Join us for a special hackathon co-sponsored by District 8 Metro Councilmember Brandon Coan! This hackathon will address issues specific to this district -- we will have projects ready to go featuring senior outreach, litter bins, alley mapping, and potentially others, but if you have other questions or are interested in other issues facing the Highlands, please join us!
+link: 'https://www.meetup.com/Louisville-Civic-Data-Alliance/events/247089007/'
+summary: Join us for a special food insecurity hackathon.
 image:
   feature:
 comments: true
 credit: CDA/CfA
 creditlink: http://www.cividataalliance.org
 ---
-__This is a multi-site event, so please note which location you will be attending in your Meetup RSVP.__ <a class="button" target="_blank" style="color: #2C2D30;font-weight: bold;border-radius: 3px; background: #00c9cf; padding: 10px;text-align:center; margin:0 auto;" alt="Register Here!" title="hackathon tickets" href="https://www.meetup.com/Louisville-Civic-Data-Alliance/events/247089007/">RSVP here!</a>
+__Please RSVP for this event:__ <a class="button" target="_blank" style="color: #2C2D30;font-weight: bold;border-radius: 3px; background: #00c9cf; padding: 10px;text-align:center; margin:0 auto;" alt="Register Here!" title="hackathon tickets" href="https://www.meetup.com/Louisville-Civic-Data-Alliance/events/247089007/">RSVP here!</a>
 
 Food insecurity, through a myriad of avenues, is a very real and dangerous problem in Louisville. 6.1% of the population lives in a food desert. 3.9% of children in Louisville have low access to a grocery store (more than one mile).
 
