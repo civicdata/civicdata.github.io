@@ -9,6 +9,7 @@ image:
   feature: banner-minecraft.jpg
   credit: Mark Burge CC
   creditlink: https://www.flickr.com/photos/makrphotos/5389536875/in/photolist-9dfMxz-a5XsRs-a5UBtt-a5XsPd-mQDNHb-mQC4ea-mQCghg-mQCgQF-nAsyaC-jbxPfv-8ZXCAV-a5XsXN-a5Xtgy-a5XtrN-a5UBmK-a5Xtdb-a5Xt9q-a5XtjU-a5UBek-a5Xt6L-a5XtpJ-a5UBN6-cpsgqY-mzokin-hRfLu7-dj6DCY-fFcgQ5-fEUHkp-fEUEKx-fEUGZD-fFcftE-fFchXQ-fFcfWd-bW2Geq-cpsg9y-doUdhE-doUbEC-doU4Qr-doUcxC-8Ws3yc-nvVhBY-jA1ry1-aM3Jsx-8Wv7Y3-8Ws3t2-8Ws3AM-8Ws32i-8Wv7pE-8Wv83G-8Wv7Em
+redirect_from: /hack-for-change-louisville
 ---
 
 We are working with the city of Louisville and local developers to recreate all of Louisville in Minecraft at 1:1!

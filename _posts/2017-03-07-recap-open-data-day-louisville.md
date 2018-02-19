@@ -10,6 +10,7 @@ image:
 comments: true
 credit: Margeaux Spring/Robert Kahne/Becky Steele/Michael Schnuerle/Greg Fischer
 creditlink: http://www.cividataalliance.org
+redirect_from: /recap-open-data-day-louisville
 ---
 The [__Civic Data Alliance__](http://www.codeforamerica.org/brigade/Civic-Data-Alliance/), [__Code for America's__](http://www.codeforamerica.org/) Louisville Brigade, held its sixth annual [__CodeAcross/Open Data__](https://www.meetup.com/Louisville-Civic-Data-Alliance/events/237373228/) event, Open Data Day, which coincided with [__International Open Data Day__](http://opendataday.org).  It was a weekend of civic hacking events hosted by over 250 cities of the Code for America extended network around the world.  The goal was to open public data and inspire residents everywhere to get actively involved in their community, and Louisville delivered.
 

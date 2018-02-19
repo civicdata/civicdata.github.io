@@ -10,6 +10,7 @@ image:
 comments: true
 credit: CDA/LVL1/OPI2/Gigabit Experience Center
 creditlink: http://www.cividataalliance.org
+redirect_from: /hacktheville-second-installment
 ---
 
 # Community IoT Hackathon at the Gigabit Experience Center

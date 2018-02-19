@@ -11,6 +11,7 @@ image:
   feature: banner-opendatalouisville.jpg
   credit: system58.photos by david.alan.kidd
   creditlink: https://www.flickr.com/photos/system58/
+redirect_from: /louisville-open-data-history-and-future
 ---
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

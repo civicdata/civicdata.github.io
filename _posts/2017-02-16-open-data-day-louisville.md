@@ -8,6 +8,7 @@ tags: [louisville,codeforamerica,cfa,hackathon,opendata,opendataday,codeacross,2
 comments: true
 credit: Margeaux Spring/Michael Schnuerle/Greg Fischer
 creditlink: http://www.cividataalliance.org
+redirect_from: /open-data-day-louisville
 ---
 # [CLICK HERE TO REGISTER](https://www.meetup.com/Louisville-Civic-Data-Alliance/events/237373228/)
 

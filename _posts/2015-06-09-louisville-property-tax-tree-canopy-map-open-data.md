@@ -11,6 +11,7 @@ image:
   feature: banner-parcel-tree.png
   credit: CDA/Mapbox/OSM
   creditlink: http://data.civicdataalliance.org/dataset/property-tax-tree-cover-parcel
+redirect_from: /louisville-property-tax-tree-canopy-map-open-data
 ---
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

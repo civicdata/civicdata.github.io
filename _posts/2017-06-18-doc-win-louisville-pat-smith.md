@@ -10,6 +10,7 @@ image:
 comments: true
 credit: Pat Smith
 creditlink: http://www.cividataalliance.org
+redirect_from: /doc-win-louisville-pat-smith
 ---
 # National Journalism Award to WFPL News for doc on diversity with CDA's Pat Smith
 Well deserved on all counts and we are incredibly proud of our own Pat Smith.  Read the whole story [__here__](http://wfpl.org/wfpl-news-wins-national-award-diversity-reporting/)

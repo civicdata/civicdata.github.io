@@ -11,6 +11,7 @@ image:
   feature: banner-hackville2015.png
   credit: Brian Bohannon
   creditlink: http://www.brianbohannon.com
+redirect_from: /national-day-of-civic-hacking-louisville
 ---
 
 # Hack for Change Louisville 2015

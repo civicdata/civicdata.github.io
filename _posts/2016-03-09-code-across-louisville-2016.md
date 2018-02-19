@@ -11,6 +11,7 @@ image:
   feature: banner-codeacross2016.png
   credit: Michael Schnuerle/Greg Fischer
   creditlink: http://www.cividataalliance.org
+redirect_from: /code-across-louisville-2016
 ---
 
 [Code for America](http://www.codeforamerica.org/) held its fifth annual [CodeAcross](https://www.codeforamerica.org/events/codeacross-2016/) event, and the [CDA](http://www.codeforamerica.org/brigade/Civic-Data-Alliance/) in Louisville [participated](http://www.meetup.com/Louisville-Civic-Data-Alliance/events/228640160/) as one of over 50 simultaneous events. CodeAcross is a weekend of civic hacking events hosted by nodes of the Code for America network around the world. It was timed to coincide with [International Open Data Day](http://opendataday.org/).  The day brought together local government leaders and staff, local organizations, non-profits, businesses, visitors, and community members and was focused on volunteer civic innovation.

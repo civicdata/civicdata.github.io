@@ -9,6 +9,7 @@ image:
   feature: banner-hackville.jpg
   credit: Michael Schnuerle
   creditlink: http://yourmapper.com/
+redirect_from: /hack-for-change-louisville
 ---
 
 Hack for Change Louisville 2014 is being held as the city's formal National Day of Civic Hacking event, one of over 119 simultaneous events across the United States.
