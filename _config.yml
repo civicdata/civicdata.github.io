@@ -65,6 +65,11 @@ bing_verify:
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title/
+
+# Medium Blog settings
+collections:
+    - external_feed
+
 # Set theme color here
 # Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
 theme_color: black

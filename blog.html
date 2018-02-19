@@ -1,5 +1,5 @@
 ---
-layout: category_index
+layout: blog_posts
 title: Blog
 permalink: /blog/
 category_name: blog
@@ -19,3 +19,46 @@ permalink: /my-awesome-category/
 filename: my-awesome-category.html
 
 -->
+
+      <!-- <h2>Latest Blog Posts</h2>
+  </header>
+  {% for e in site.external_feed %}
+    <h2>{{ e.title }}</h2>
+    <p>{{ e.feed_content }}</p>
+  {% endfor %}
+<section class="special">
+  <ul class="actions">
+  <li><a href="{{ site.baseurl }}{{ e.url }}" class="button {% cycle '', 'alt'%}">Read More</a></li>
+  </ul> -->
+
+
+  <article class="container px-2 mx-auto mb4" itemscope itemtype="http://schema.org/BlogPosting">
+    <h1 class="h0 col-9 sm-width-full py-4 mt-3 inline-block" itemprop="name headline">{{ page.title }}</h1>
+    <div class="col-4 sm-width-full mt-1 border-top-thin ">
+      <p class="mb-3 py-2 bold h4"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></p>
+    </div>
+
+    <div class="prose" itemprop="articleBody">
+        {{ content }}
+    </div>
+
+  </article>
+
+  <div class="container mx-auto px-2 py-2 clearfix">
+    {% include previous-next_has-categories.html %}
+  </div>
+
+
+  <!-- <div id="fm-medium-embed"></div>
+  <script src="//data.feedmirror.com/embed.js?t=13323"></script>
+  <script type="text/javascript">
+    var fmSettings = {
+      feedURL: 'https://data.feedmirror.com/-L5fc9IN-AtsWQP6BY9E.json',
+      integration: 'medium-embed',
+      linkOutText: 'Continue reading...',
+      linkToMediumProfileText: 'Subscribe on Medium',
+      postsCount:  3,
+      element: 'fm-medium-embed'
+    };
+    feedmirror.initialize(fmSettings);
+  </script> -->

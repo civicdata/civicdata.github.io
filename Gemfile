@@ -6,3 +6,4 @@ gem 'activesupport'
 gem 'stringex'
 gem "jekyll-paginate"
 gem "feedjira"
+gem "jekyll-display-medium-posts"
