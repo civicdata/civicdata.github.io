@@ -11,7 +11,7 @@ layout: none
     {% comment %}"favicon": "",{% endcomment %}
     "expired": false,
     "items": [
-{% for post in site.events %}
+{% for post in site.posts %}
         {
             "id": "{{ post.id }}",
             "title": {{ post.title | smartify | jsonify }},
