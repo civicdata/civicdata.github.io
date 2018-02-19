@@ -1,0 +1,38 @@
+---
+layout: default
+---
+<style>
+.fm-post-image{
+    display: none;
+}
+</style>
+<article class="container px-2 mx-auto mb4" itemscope itemtype="http://schema.org/BlogPosting">
+  <h1 class="h0 col-9 sm-width-full py-4 mt-3 inline-block" itemprop="name headline">{{ page.title }}</h1>
+  <div class="col-4 sm-width-full mt-1 border-top-thin ">
+
+  </div>
+
+  <div class="prose" itemprop="articleBody">
+      <div id="fm-medium-embed"></div>
+
+  </div>
+
+</article>
+
+<div class="container mx-auto px-2 py-2 clearfix">
+  {% include previous-next_has-categories.html %}
+</div>
+
+
+<script src="//data.feedmirror.com/embed.js?t=13323"></script>
+<script type="text/javascript">
+  var fmSettings = {
+    feedURL: 'https://data.feedmirror.com/-L5fc9IN-AtsWQP6BY9E.json',
+    integration: 'medium-embed',
+    linkOutText: 'Continue reading...',
+    linkToMediumProfileText: 'Subscribe on Medium',
+    postsCount:  3,
+    element: 'fm-medium-embed'
+  };
+  feedmirror.initialize(fmSettings);
+</script>
