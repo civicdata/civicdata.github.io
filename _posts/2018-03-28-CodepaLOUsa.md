@@ -16,7 +16,7 @@ creditlink: http://www.cividataalliance.org
 
 ### Code PaLOUsa 2018
 
-__Civic Data Alliance has 4 members presetning at Code PaLOUsa this year!__
+__Civic Data Alliance has 4 members presenting at Code PaLOUsa this year!__
 
 Join Veronica Rivera and Margeaux Spring as they present "Diversity in Tech: How to make our orgs more inclusive" on Friday, March 30, 2018
  4:45 PM - 5:45 PM in the Goldenrod Room.
