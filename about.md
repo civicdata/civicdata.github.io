@@ -13,9 +13,7 @@ image:
 ---
 # Civic Data Alliance  
 ## All the Data for We the People  
-The __Civic Data Alliance__ (CDA) is Louisville's [__Code for America Brigade__](http://brigade.codeforamerica.org/brigade/Civic-Data-Alliance/) and we are focused on being a force for open data, hosting hackathons, coding education, and civic engagement.
-
-*We are the public's voice for open data, interested in liberating, improving, gathering, defining, and reporting on public data.*  
+The __Civic Data Alliance__ (CDA) is Louisville's [__Code for America Brigade__](http://brigade.codeforamerica.org/brigade/Civic-Data-Alliance/) and we are focused on advocating for inclusion, diversity, equity, accessibility, openness and transparency in civic tech and open data, interested in liberating, improving, gathering, defining, and reporting on public data and the state of civic tech, while fostering an inclusive and diverse civic tech community.
 
 ## Captains  
 __Anthony Bouvier__ [@thebouv](https://twitter.com/thebouv){:target="_blank"}  
