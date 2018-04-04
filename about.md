@@ -13,7 +13,7 @@ image:
 ---
 # Civic Data Alliance  
 ## All the Data for We the People  
-The __Civic Data Alliance__ (CDA) is Louisville's [__Code for America Brigade__](http://brigade.codeforamerica.org/brigade/Civic-Data-Alliance/). We are focused on being a force for helping to develop citizen scientists, open government, open data, civic tech and civic engagement. 
+The __Civic Data Alliance__ (CDA) is Louisville's [__Code for America Brigade__](http://brigade.codeforamerica.org/brigade/Civic-Data-Alliance/) and we are focused on advocating for inclusion, diversity, equity, accessibility, openness and transparency in civic tech and open data, interested in liberating, improving, gathering, defining, and reporting on public data and the state of civic tech, while fostering an inclusive and diverse civic tech community.   
 
 ## Community Partners    
 [__Black Lives Matter Louisville/Stand Up Sundays__](http://blackliveslouisville.org/stand-up-sundays/) | [__New Roots Inc__](http://www.newroots.org) | [__IDEAS xLab__](http://www.ideasxlab.com) | [__Code Louisville__](http://www.codelouisville.org/) | [__American Printing House for the Blind__](http://www.aph.org/) | [__KY Youth Advocates__](http://kyyouth.org/) | [__Louisville Public Media__](http://louisvillepublicmedia.org/) | [__Metro Safe and Healthy Neighborhoods__](https://louisvilleky.gov/government/safe-neighborhoods) | [__Network Center for Community Change__](http://makechangetogether.org/) | [__TARC__](http://ridetarc.org/) | [__The Courier-Journal__](http://www.courier-journal.com/)
