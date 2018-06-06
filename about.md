@@ -22,15 +22,15 @@ The __Civic Data Alliance__ (CDA) is Louisville's [__Code for America Brigade__]
  __Pat Smith: Captain__ [@cityresearch](https://twitter.com/CityResearch){:target="_blank"}  
 __Margeaux Spring: Captain__ [@cheapwebmonkey](https://twitter.com/cheapwebmonkey){:target="_blank"} [GitHub](https://github.com/cheapwebmonkey){:target="_blank"}  
 __Anthony Bouvier: Developer Advocate__ [@thebouv](https://twitter.com/thebouv){:target="_blank"}       
-__Aaron Marks: Community Organizer__ [@amdev83](https://twitter.com/amdev83){:target="_blank"}
+__Aaron Marks: Community Organizer__ [@amdev83](https://twitter.com/amdev83){:target="_blank"}  
+__Matthew Gotth-Olsen: Communications Lead__ [@mattgolsen](https://twitter.com/mattgolsen){:target="_blank"}
 
 
 ### Core Members
 __Alexandra Kanik__  
 __Virginia Gotth-Olsen__  
 __Ethan Epping__     
-__Mike Culbertson__   
-__Cody Mcpheron__   
+__Mike Culbertson__     
 __Eric Bickel__  
 __Robert Kahne__   
 __Zach Bouvier__  
