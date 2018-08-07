@@ -37,12 +37,5 @@ __Robert Kahne__
 __Zach Bouvier__  
 __Chris Harrell__  [@lazarusllc](https://twitter.com/LazarusLLC){:target="_blank"}    
 
-
-
-### Municipal Partners
-__Matthew Gotth-Olsen__ [@mattgolsen](https://twitter.com/mattgolsen){:target="_blank"} - Innovation Project Manager, [__Office of Performance Improvement and Innovation__](https://louisvilleky.gov/government/performance-improvement-innovation/about-us){:target="_blank"}
-__Ed Blayney__ [@edblayney](https://twitter.com/edblayney){:target="_blank"} - Innovation Project Manager, [__Office of Performance Improvement and Innovation__](https://louisvilleky.gov/government/performance-improvement-innovation/about-us){:target="_blank"}
-__Michael Schnuerle__ [@LouDataOfficer](http://www.twitter.com/LouDataOfficer){:target="_blank"} - Data Officer, [__Mayor's Staff/Office of Performance Improvement and Innovation__](http://louisvilleky.gov/government/mayor-greg-fischer/mayors-staff){:target="_blank"}
-
 #### Code of Conduct
 All members, volunteers, and event participants agree to abide by [__Civic Data Alliance Code of Conduct__](https://github.com/civicdata/civicdata.github.io/blob/master/CODE_OF_CONDUCT.md)
