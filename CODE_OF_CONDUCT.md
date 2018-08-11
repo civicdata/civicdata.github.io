@@ -4,9 +4,9 @@
 
 _This is a living document and as such, it can and will be adjusted by Civic Data Alliance's CoC committee._
 
-## Code for America's Code of Conduct
+## Civic Data Alliance's Code of Conduct
 
-### The Code for America community expects that Code for America network activities, events, and digital forums:
+### The Civic Data Alliance community expects that all of our network activities, events, and digital forums:
 
 * Are a safe and respectful environment for all participants.
 * Are a place where people are free to fully express their identities.
@@ -19,32 +19,29 @@ _This is a living document and as such, it can and will be adjusted by Civic Dat
 * Prioritize access for and input from those who are traditionally excluded from the civic process.
 * Work to ensure that the community is well-represented in the planning, design, and implementation of civic tech. This includes encouraging participation from women, minorities, and traditionally marginalized groups.
 * Actively involve community groups and those with subject matter expertise in the decision-making process.
-* Ensure that the relationships and conversations between community members, the local government staff and community partners remain respectful, participatory, and productive.
 * Provide an environment where people are free from discrimination or harassment.
 
-_Code for America reserves the right to ask anyone in violation of these policies to refrain from participating in Code for America network activities, events, and digital forums._
+_Civic Data Alliance reserves the right to ask anyone in violation of these policies to refrain from participating in Civic Data Alliance network activities, events, and digital forums._
 
-### Code for America's Anti-Harassment Policy
+### Civic Data Alliance's Anti-Harassment Policy
 
 This anti-harassment policy is based on the example policy from the [Geek Feminism wiki](http://www.thefeministclub.nl/coc/), created by the Ada Initiative and other volunteers.
 
 This policy is based on several other policies, including the Feminist Group of Amsterdam, Ohio LinuxFest anti-harassment policy, written by Esther Filderman and Beth Lynn Eicher, and the Con Anti-Harassment Project. Mary Gardiner, Valerie Aurora, Sarah Smith, and Donna Benjamin generalized the policies and added supporting material. Many members of LinuxChix, Geek Feminism and other groups contributed to this work.
 
-All Code for America network activities, events, and digital forums and their staff, presenters, and participants are held to an anti-harassment policy, included below.
+All Civic Data Alliance network activities, events, and digital forums and their staff, presenters, and participants are held to an anti-harassment policy, included below.
 
-In addition to governing our own events by this policy, Code for America will only lend our brand and fund groups that offer an anti-harassment policy to their attendees. For information on how to offer an anti-harassment policy to your group, see this guide.
+In addition to governing our own events by this policy, Civic Data Alliance will only lend our brand and fund groups that offer an anti-harassment policy to their attendees. For information on how to offer an anti-harassment policy to your group, see this guide.
 
-Code for America is dedicated to providing a harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate harassment of staff, presenters, and participants in any form. Sexual language and imagery is not appropriate for any Code for America event or network activity, including talks. Anyone in violation of these policies may expelled from Code for America network activities, events, and digital forums, at the discretion of the event organizer or forum administrator.
+Civic Data Alliance is dedicated to providing a harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate harassment of staff, presenters, and participants in any form. Sexual language and imagery is not appropriate for any Civic Data Alliance event or network activity, including talks. Anyone in violation of these policies may expelled from Civic Data Alliance network activities, events, and digital forums, at the discretion of the event organizer or forum administrator.
 
 Harassment includes but is not limited to: offensive verbal or written comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, religion; sexual images in public spaces; deliberate intimidation; stalking; following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact; unwelcome sexual attention; unwarranted exclusion; and patronizing language or action.
 
-If a participant engages in harassing behavior, the organizers may take any action they deem appropriate, including warning the offender or expulsion from Code for America network activities, events, and digital forums.
+If a participant engages in harassing behavior, the organizers may take any action they deem appropriate, including warning the offender or expulsion from Civic Data Alliance network activities, events, and digital forums.
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff or forum administrator immediately. You can [__contact them here__](margeaux@civicdataalliance.org). Event staff or forum administrators will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
 
 If you cannot reach an event organizer or forum administrator and/or it is an emergency, please call 911 and/or remove yourself from the situation.
-
-You can also contact Code for America about harassment at safespace@codeforamerica.org and feel free to use the email template below. Code for America staff acknowledge that we are not always in a position to evaluate a given situation due to the number of events and the fact that our team is not always present. However, we are hopeful that by providing these guidelines we are establishing a community that jointly adheres to these values and can provide an environment that is welcoming to all.
 
 We value your attendance and hope that by communicating these expectations widely we can all enjoy a harassment-free environment.
 
@@ -52,11 +49,11 @@ We value your attendance and hope that by communicating these expectations widel
 
 >SUBJECT: Safe Space alert at Civic Data Alliance
 >
->I am writing because of harassment at a CDA/Code for America Communities event, (NAME, PLACE, DATE OF EVENT or Slack).
+>I am writing because of harassment at a CDA Communities event, (NAME, PLACE, DATE OF EVENT or Slack).
 >
 > You can reach me at (CONTACT INFO). Thank you.
 
-## In addition to the CfA CoC, CDA observes and enforces the following:
+## In addition, CDA observes and enforces the following:
 
 We recognise that everyone makes mistakes. We are forgiving, but not lenient. Repeated violations of these rules will results in any actions deemed appropriate by moderators, including warning the offender and removal from the community.
 
