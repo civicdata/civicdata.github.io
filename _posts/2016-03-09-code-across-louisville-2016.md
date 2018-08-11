@@ -1,19 +1,18 @@
 ---
 layout: post
 title: Code Across America
-description: "Code for America held its fifth annual CodeAcross event, and the CDA in Louisville participated. CodeAcross is a weekend of civic hacking events hosted by nodes of the Code for America network around the world. It is timed to coincide with International Open Data Day."
+description: "For the fifth annual CodeAcross event, and the CDA in Louisville participated. CodeAcross is a weekend of civic hacking events around the world. It is timed to coincide with International Open Data Day."
 date: 2016-03-09
 modified: 2016-03-09
 categories: hackathons projects
-tags: [louisville,codeforamerica,cfa,hackathon,codeacross,2016]
+tags: [louisville,hackathon,codeacross,2016]
 comments: true
 image:
   feature: banner-codeacross2016.png
-  credit: Michael Schnuerle/Greg Fischer
   creditlink: http://www.cividataalliance.org
 ---
 
-[Code for America](http://www.codeforamerica.org/) held its fifth annual [CodeAcross](https://www.codeforamerica.org/events/codeacross-2016/) event, and the [CDA](http://www.codeforamerica.org/brigade/Civic-Data-Alliance/) in Louisville [participated](http://www.meetup.com/Louisville-Civic-Data-Alliance/events/228640160/) as one of over 50 simultaneous events. CodeAcross is a weekend of civic hacking events hosted by nodes of the Code for America network around the world. It was timed to coincide with [International Open Data Day](http://opendataday.org/).  The day brought together local government leaders and staff, local organizations, non-profits, businesses, visitors, and community members and was focused on volunteer civic innovation.
+This event was timed to coincide with [International Open Data Day](http://opendataday.org/).  The day brought together local government leaders and staff, local organizations, non-profits, businesses, visitors, and community members and was focused on volunteer civic innovation.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Coders tackling tech needs like new voice survey app, Internet connection speed map &amp; more <a href="https://twitter.com/codelouisville">@codelouisville</a> <a href="https://twitter.com/OPI2Lou">@OPI2Lou</a> <a href="https://t.co/lKH1piU5Ow">pic.twitter.com/lKH1piU5Ow</a></p>&mdash; Mayor Greg Fischer (@louisvillemayor) <a href="https://twitter.com/louisvillemayor/status/706171180886134784">March 5, 2016</a></blockquote>
 
@@ -23,7 +22,7 @@ We had our biggest turnout ever with over 50 people participating. Thanks to [Co
 
 **SMART LOUISVILLE**
 
-[Smart Louisville](http://www.smartlouisville.com) is a partnership with Louisville Metro government.  Ed Blayney approached the CDA and offered to host civic tech projects for free for one year.  We modeled our initiative after [Smart Chicago's](http://www.smartchicagocollaborative.org/) success.  Many of the projects at the event were setup and hosted on the brand new Cloud Collaborative platform.
+[Smart Louisville](http://www.smartlouisville.com) is a partnership with Louisville Metro government.   We modeled our initiative after [Smart Chicago's](http://www.smartchicagocollaborative.org/) success.  Many of the projects at the event were setup and hosted on the brand new Cloud Collaborative platform.
 
 **PROJECTS**
 

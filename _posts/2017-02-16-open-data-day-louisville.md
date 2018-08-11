@@ -1,24 +1,23 @@
 ---
 layout: post
-title: Open Data Day 2017
-description: "Code for America will hold its sixth annual CodeAcross event, which this year is being called Open Data Day, to coincide with International Open Data Day.  It's a weekend of civic hacking events hosted by over 100 cities of the Code for America network around the world.  The goal is to activate the Code for America network and inspire residents everywhere to get actively involved in their community."
+title: International Open Data Day 2017
+description: "International Open Data Day.  It's a weekend of civic hacking events hosted by over 100 cities around the world.  The goal is to activate and inspire residents everywhere to get actively involved in their community."
 date: 2017-02-16
 categories: hackathons
-tags: [louisville,codeforamerica,cfa,hackathon,opendata,opendataday,codeacross,2017]
+tags: [louisville,hackathon,opendata,opendataday,2017]
 comments: true
-credit: Margeaux Spring/Michael Schnuerle/Greg Fischer
+credit: Margeaux Spring
 creditlink: http://www.cividataalliance.org
 ---
 # [CLICK HERE TO REGISTER](https://www.meetup.com/Louisville-Civic-Data-Alliance/events/237373228/)
 
-The [__Civic Data Alliance__](http://www.codeforamerica.org/brigade/Civic-Data-Alliance/), [__Code for America's__](http://www.codeforamerica.org/) Louisville Brigade, will hold its sixth annual [__CodeAcross/Open Data__](https://www.meetup.com/Louisville-Civic-Data-Alliance/events/237373228/) event, which this year is being called Open Data Day, to coincide with [__International Open Data Day__](http://opendataday.org).  It's a weekend of civic hacking events hosted by over 250 cities of the Code for America extended network around the world.  The goal is to open public data and inspire residents everywhere to get actively involved in their community.
+The [__Civic Data Alliance__](http://www.codeforamerica.org/brigade/Civic-Data-Alliance/) will hold its sixth annual [__CodeAcross/Open Data__](https://www.meetup.com/Louisville-Civic-Data-Alliance/events/237373228/) event, which this year is being called Open Data Day, to coincide with [__International Open Data Day__](http://opendataday.org).  It's a weekend of civic hacking events hosted by over 250 cities around the world.  The goal is to open public data and inspire residents everywhere to get actively involved in their community.
 
 This year the __City of Louisville__ is cosponsoring the event.  It will be held in the brand new __LouieLab__ space, and will have a focus on public safety.  Expect new open data and event projects around police, EMS, fire, and the community.
 
 ## COMMUNITY PARTNERS:
 * Major Eric Johnson (Administrative Services) from Metro LMPD
 * Sergeant Donnie Masden (Technical Services) from Metro LMPD
-* Michael Schnuerle (Data Officer) from Metro OPI [@LouDataOfficer](http://www.twitter.com/LouDataOfficer)
 
 ### NEW EVENT DATA SETS:
 * [LMPD Gun Intake](https://data.louisvilleky.gov/dataset/firearms-intake) (last 5 years, block level locations, type of gun, date/time)

@@ -4,7 +4,7 @@ title: Visually Impaired and Open Data
 description: "The Civic Data Alliance has taken open GIS data from the city of Louisville and organized volunteers to load it into Open Street Map so the American Printing House can use it in their mobile app for the visually impaired."
 date: 2015-05-15
 categories: projects hackathons
-tags: [louisville,gis,aph,american printing house,open street map,hackathon,lojic,code for america]
+tags: [louisville,gis,aph,american printing house,open street map,hackathon,lojic]
 comments: true
 image:
   feature: banner-osmbuildings.png
@@ -36,7 +36,7 @@ Between February 16 and May 15, 20+ people have collaboratively worked on over 5
 
 We also had some massive help from an expert OSM editor named [Sam Wallingford](http://www.openstreetmap.org/user/Omnific), an engineering student at UVa.  He started work in April and over the next month completed [more areas](https://docs.google.com/spreadsheets/d/1Hvd-Ix42pkISHrbU6zZ0Be-PvggtBFa9VvNDHWvyhF0/edit#gid=0) than everyone else combined.  Thanks so much Sam!
 
-The CDA is looking at helping other brigades import their data, and may run a workshop at the [Code for America Summit](http://www.codeforamerica.org/summit/) this September.  We are also prepping other city data to load, including parks and natural areas, streams, alleys, cemeteries, parking, and historic markers.  We will continue to push the city to release more data to load, like traffic signs, traffic signals, 1-foot contours, parcels, and impervious surfaces.
+The CDA is looking at helping other brigades import their data, and may run a workshop this September.  We are also prepping other city data to load, including parks and natural areas, streams, alleys, cemeteries, parking, and historic markers.  We will continue to push the city to release more data to load, like traffic signs, traffic signals, 1-foot contours, parcels, and impervious surfaces.
 
 **CDA Work Before the Event**
 
@@ -83,8 +83,6 @@ Listening to Larry Skutchan from the American Printing House talk about how the 
 Brian Herbert from Ushahidi (middle) lending his expertise, adding mapping data to Louisville.
 
 <blockquote class="twitter-tweet" lang="en"><p>Just made my first contribution to <a href="https://twitter.com/openstreetmap">@openstreetmap</a> ever here at <a href="https://twitter.com/hashtag/CodeAcross?src=hash">#CodeAcross</a> Louisville <a href="https://twitter.com/CivicDataAlly">@CivicDataAlly</a> <a href="http://t.co/o2dKIlyvYu">pic.twitter.com/o2dKIlyvYu</a></p>&mdash; ladyson (@ladyson) <a href="https://twitter.com/ladyson/status/569188814725488640">February 21, 2015</a></blockquote>
-
-Lauren Dyson, Content Manager with Code for America, dropped by to lend a hand.
 
 
 **Results**

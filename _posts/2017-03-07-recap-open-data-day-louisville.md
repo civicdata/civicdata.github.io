@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Open Data Day Projects
-description: "Code for America held its sixth annual CodeAcross event, Open Data Day, which coincided with International Open Data Day. The goal was to open public data and inspire residents everywhere to get actively involved in their community, and Louisville delivered."
+description: "Open Data Day coincided with International Open Data Day. The goal was to open public data and inspire residents everywhere to get actively involved in their community, and Louisville delivered."
 date: 2017-03-17
 categories: projects
 tags: [louisville,codeforamerica,cfa,hackathon,opendata,opendataday,codeacross,2017]
@@ -11,7 +11,7 @@ comments: true
 credit: Margeaux Spring/Robert Kahne/Becky Steele/Michael Schnuerle/Greg Fischer
 creditlink: http://www.cividataalliance.org
 ---
-The [__Civic Data Alliance__](http://www.codeforamerica.org/brigade/Civic-Data-Alliance/), [__Code for America's__](http://www.codeforamerica.org/) Louisville Brigade, held its sixth annual [__CodeAcross/Open Data__](https://www.meetup.com/Louisville-Civic-Data-Alliance/events/237373228/) event, Open Data Day, which coincided with [__International Open Data Day__](http://opendataday.org).  It was a weekend of civic hacking events hosted by over 250 cities of the Code for America extended network around the world.  The goal was to open public data and inspire residents everywhere to get actively involved in their community, and Louisville delivered.
+The [__Civic Data Alliance__](http://www.codeforamerica.org/brigade/Civic-Data-Alliance/) held its sixth annual [__CodeAcross/Open Data__](https://www.meetup.com/Louisville-Civic-Data-Alliance/events/237373228/) event, Open Data Day, which coincided with [__International Open Data Day__](http://opendataday.org).  It was a weekend of civic hacking events hosted by over 250 cities around the world.  The goal was to open public data and inspire residents everywhere to get actively involved in their community, and Louisville delivered.
 
 The __City of Louisville__ and [__Astronomer__](http://www.astronomer.io/) cosponsored the event.  It was held in the brand new __LouieLab__ space, and focused on public safety.  Mayor Greg Fischer and Grace Simrall made an appearence to strategize with the civic hackers, new open data was opened and event projects that centered around police, EMS, fire, and the community were created. Here are some of the things that Louisville Hackers and Civic Data Alliance made:
 

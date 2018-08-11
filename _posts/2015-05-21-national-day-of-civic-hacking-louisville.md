@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "National Day of Civic Hacking"
-description: "Hack for Change Louisville was held as the city’s official Code for America National Day of Civic Hacking event, one of over 100 simultaneous events across the United States. The day brought together local government leaders and staff, local organizations, non-profits, businesses, visitors, and community members and was focused on civic innovation."
+description: "Hack for Change Louisville was held as the city’s official Day of Civic Hacking event, one of over 100 simultaneous events across the United States. The day brought together local government leaders and staff, local organizations, non-profits, businesses, visitors, and community members and was focused on civic innovation."
 date: 2015-05-21
 modified: 2015-06-10
 categories: projects hackathons
@@ -15,9 +15,9 @@ image:
 
 # Hack for Change Louisville 2015
 
-Hack for Change Louisville was held as the city’s official [Code for America](http://www.codeforamerica.org/) [National Day of Civic Hacking](http://hackforchange.org/) event, one of over 100 simultaneous events across the United States. The day brought together local government leaders and staff, local organizations, non-profits, businesses, visitors, and community members and was focused on civic innovation.
+Hack for Change Louisville brought together local government leaders and staff, local organizations, non-profits, businesses, visitors, and community members and was focused on civic innovation.
 
-Over 35 people participated in this year's event. [Louisville’s Code for America brigade](http://www.codeforamerica.org/brigade/Civic-Data-Alliance/), the [Civic Data Alliance](http://www.civicdataalliance.org/), volunteered to organize this year’s event and partnered with [Code Louisville](http://www.codelouisville.org/) for event hosting and promotions.
+Over 35 people participated in this year's event. The [Civic Data Alliance](http://www.civicdataalliance.org/), volunteered to organize this year’s event and partnered with [Code Louisville](http://www.codelouisville.org/) for event hosting and promotions.
 
 [![Louisville mayor addressing crowd](/images/screenshot-hackville-mayor.png)](https://twitter.com/CityResearch/status/607204428635086848)
 
