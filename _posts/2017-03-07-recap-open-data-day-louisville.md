@@ -8,7 +8,7 @@ tags: [louisville,codeforamerica,cfa,hackathon,opendata,opendataday,codeacross,2
 image:
   feature: banner-open-data-day2017.jpg
 comments: true
-credit: Margeaux Spring/Robert Kahne/Becky Steele/Michael Schnuerle/Greg Fischer
+credit: Margeaux Spring/Robert Kahne/Becky Steele/Greg Fischer
 creditlink: http://www.cividataalliance.org
 ---
 The [__Civic Data Alliance__](http://www.codeforamerica.org/brigade/Civic-Data-Alliance/) held its sixth annual [__CodeAcross/Open Data__](https://www.meetup.com/Louisville-Civic-Data-Alliance/events/237373228/) event, Open Data Day, which coincided with [__International Open Data Day__](http://opendataday.org).  It was a weekend of civic hacking events hosted by over 250 cities around the world.  The goal was to open public data and inspire residents everywhere to get actively involved in their community, and Louisville delivered.
@@ -23,9 +23,8 @@ This is a tool to help residents of the the Louisville Metro explore the city’
 
 * Newly opened [__Firearms data mapped__](https://mgottholsen.carto.com/builder/f669937e-01cb-11e7-bd94-0e05a8b3e3d7/embed) by Matt Gotth-Olsen
 
-* Robert Kahne's [__Shiny app for Firearms Data on Github__](https://github.com/rkahne/Civic_Data_Alliance_Projects/tree/master/shiny_apps/Louisville_Firearms)
+* [__Shiny app for Firearms Data on Github__](https://github.com/civicdata/Civic_Data_Alliance_Projects)
 
-* [__Historic Streetcar__](https://cityresearch.github.io/streetcar/) map by Pat Smith
 
 * Metro Form Finder was created by Errin Johnson, an app that will make it easier for the public to find the forms Louisville offers. This was made utitlizing the metro form data from [__Louisville's Open Data Portal.__](https://data.louisvilleky.gov) [__Metro Louisville Form Finder on Github__](https://github.com/errinjohnson/MetroLouisvilleFormQuery)
 
@@ -43,7 +42,6 @@ This is a tool to help residents of the the Louisville Metro explore the city’
 ## COMMUNITY PARTNERS:
 * Major Eric Johnson (Administrative Services) from Metro LMPD
 * Sergeant Donnie Masden (Technical Services) from Metro LMPD
-* Michael Schnuerle (Data Officer) from Metro OPI [@LouDataOfficer](http://www.twitter.com/LouDataOfficer)
 
 ### NEW EVENT DATA SETS USED:
 * [LMPD Gun Intake](https://data.louisvilleky.gov/dataset/firearms-intake) (last 5 years, block level locations, type of gun, date/time)
@@ -70,5 +68,3 @@ What they do:
 > Astronomer connects disparate data sources and hard-to-reach, complex data sets to get data flowing, from any source to any destination, in real-time.
 
 ![Louisville Open Data](/images/logo-metro-open-data.png "Sponsored by: Louisville Open Data")
-
-Thanks to [__Louisville Metro__](http://data.louisvilleky.gov/) for opening data and hosting the event at OPI's LouieLab.

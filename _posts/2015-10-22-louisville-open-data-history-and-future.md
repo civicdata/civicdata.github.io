@@ -65,8 +65,6 @@ The goal with this road map is to empower Metro employees, provide a quality dir
 - [Lobbyist Activity](http://us-city.census.okfn.org/entry/louisville/lobbyist) - City Census
 - [Impervious Surfaces](http://water.usgs.gov/edu/impervious.html) - Includes road shapes, sidewalks, parking. Useful for flooding predictions.
 - [Fire Dispatches](https://twitter.com/CivicDataAlly/status/653667834921398272)
-- [Recent Home Sales](http://blog.yourmapper.com/2009/10/map-recent-louisville-home-sales/)
-- [Foreclosures](http://blog.yourmapper.com/2009/10/map-louisville-home-foreclosures/)
 - [Vehicle Collisions](http://crashinformationky.org/KCAP/KYOPS/SearchWizard.aspx)
 - [Traffic Tickets](http://iquantny.tumblr.com/post/76937212765/using-open-data-to-predict-when-you-might-get-your)
 - [Traffic Signals](http://data.denvergov.org/dataset/city-and-county-of-denver-traffic-signals)

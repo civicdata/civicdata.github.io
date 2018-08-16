@@ -28,7 +28,6 @@ Precinct turn out for the May 2014 primary including registered voters, turnout 
 
 [![Voter Turnout Map](/images/screenshot-voter-turnout.png)](http://projects.civicdataalliance.org/voter-turnout/)
 
-*Map created by* [@CityResearch](http://www.twitter.com/CityResearch) [@LouieWatch](http://www.twitter.com/LouieWatch)  [@YourMapper](http://www.twitter.com/YourMapper)  [@atepoorthuis](http://www.twitter.com/atepoorthuis) in less than 1 day.
 
 ## Process and Issues ##
 
