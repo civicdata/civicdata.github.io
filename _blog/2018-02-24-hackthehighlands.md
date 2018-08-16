@@ -14,9 +14,7 @@ creditlink: http://www.cividataalliance.org
 For the second weekend in a row, Civic Data Alliance members gathered in hackathon form to tackle some of Louisville’s problems. Our focus for this event, sponsored by Councilperson Brandon Coan, was on District 8, locally known as “The Highlands”, and the many problems surrounding this popular area of town.  
 
 The data proved to be a challenge for the three major issues: parking violations, street lights, and trash bins. Much of the day was spent digging through raw data, discovering duplicates, missing or poorly captured data, and approximating numbers.  
-
-A full write up of the PARC/parking violations project can be found [__here__](https://medium.com/@CityResearch/the-most-violated-parking-places-in-the-highlands-2190c216b9bf) by CDA Capitan Pat Smith.  
-
+  
 CDA Members Robert Kahne, Erin Yepis, Gavin, Schilling, and Jerome vanGaalen, with Councilperson Coan, focused on trash bins and their placement on the Bardstown/Baxter corridor to support clean up efforts based on issues with littering. After comparing maps of businesses via LIBA (Louisville Independent Business Association) and current trash bins, contributors estimated the need for an additional 25 trash bins in the area. More information on this project can be found [__here.__](https://github.com/civicdata/District_8_Hackathon/tree/master/litter_bins)  
 
 CDA Capitan Margeaux Spring used data from LG&E to map traffic lights in the Highlands with a focus on any reported outage to help with servicing issues for traffic lights. These maps can be found [__here.__](https://github.com/civicdata/District_8_Hackathon/tree/master/lights)  

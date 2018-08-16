@@ -7,8 +7,6 @@ tags: [hackathon,ndoch]
 comments: true
 image:
   feature: banner-hackville.jpg
-  credit: Michael Schnuerle
-  creditlink: http://yourmapper.com/
 ---
 
 Hack for Change Louisville 2014 is being held as the city's formal National Day of Civic Hacking event, one of over 119 simultaneous events across the United States.
@@ -20,5 +18,3 @@ The day will bring together local government leaders and staff, local organizati
 Learn more at our [Hack for Change info page](http://hackforchange.org/events/hack-for-change-louisville/), and grab one of our free tickets before they are gone!
 
 Keep an eye on this site to learn about upcoming Open Data events and news.
-
-See our [full 2014 recap](http://blog.yourmapper.com/2014/06/hack-for-change-louisville-recap-2014/)

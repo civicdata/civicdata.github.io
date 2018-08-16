@@ -78,7 +78,7 @@ Resident Open Street Map expert Jeff McAdams (has the most edits in the city) di
 
 Listening to Larry Skutchan from the American Printing House talk about how the data can help his [Nearby Explorer app](https://play.google.com/store/apps/details?id=org.aph.avigenie) users.
 
-<blockquote class="twitter-tweet" lang="en"><p>Adding all buildings/address to <a href="https://twitter.com/openstreetmap">@openstreetmap</a> Louisville for <a href="https://twitter.com/APHfortheBlind">@APHfortheBlind</a> app <a href="https://twitter.com/brianherbert">@brianherbert</a> <a href="https://twitter.com/ladyson">@ladyson</a> <a href="https://twitter.com/hashtag/codeaccross?src=hash">#codeaccross</a> <a href="http://t.co/2Q4m8Emb1F">pic.twitter.com/2Q4m8Emb1F</a></p>&mdash; Pat Smith (@CityResearch) <a href="https://twitter.com/CityResearch/status/569215416767115265">February 21, 2015</a></blockquote>
+<blockquote class="twitter-tweet" lang="en"><p>Adding all buildings/address to <a href="https://twitter.com/openstreetmap">@openstreetmap</a> Louisville for <a href="https://twitter.com/APHfortheBlind">@APHfortheBlind</a> app <a href="https://twitter.com/brianherbert">@brianherbert</a> <a href="https://twitter.com/ladyson">@ladyson</a> <a href="https://twitter.com/hashtag/codeaccross?src=hash">#codeaccross</a> <a href="http://t.co/2Q4m8Emb1F">pic.twitter.com/2Q4m8Emb1F</a></p></blockquote>
 
 Brian Herbert from Ushahidi (middle) lending his expertise, adding mapping data to Louisville.
 

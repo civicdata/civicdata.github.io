@@ -19,7 +19,7 @@ Hack for Change Louisville brought together local government leaders and staff, 
 
 Over 35 people participated in this year's event. The [Civic Data Alliance](http://www.civicdataalliance.org/), volunteered to organize this year’s event and partnered with [Code Louisville](http://www.codelouisville.org/) for event hosting and promotions.
 
-[![Louisville mayor addressing crowd](/images/screenshot-hackville-mayor.png)](https://twitter.com/CityResearch/status/607204428635086848)
+[![Louisville mayor addressing crowd](/images/screenshot-hackville-mayor.png)]
 
 We self-organized around 8 different projects, after narrowing the field from 16 potential ones.
 
