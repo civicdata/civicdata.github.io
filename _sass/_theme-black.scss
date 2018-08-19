@@ -3,20 +3,25 @@
 // Color variables
 $black: #2C2D30;
 $red: #ED2438;
-$red-small: #ED2438;
+$red-small: #9d000f;
 $white: #fdfffc;
 $blue: #00c9cf;
+$orange: #fa8224;
+$blue-small: #007AB3;
+$royal: #001a6d;
+$bright-royal: #0b45ff;
 
 // Config
 $color-background: $black !default;
-$color-dot-accent: $red !default;
+$color-dot-accent: $blue !default;
 $color-foreground: $white !default;
 $color-title: $white !default;
 $color-body-text: $black !default;
-$color-text-accent: $red !default;
+$color-text-accent: $black !default;
 $color-code: $red-small !default;
-$color-nav-link: $red !default;
+$color-nav-link: $orange !default;
 $color-primary-link: $red !default;
+$color-secondary-link: $blue !default;
 
 .font-smoothing {
   -webkit-font-smoothing: antialiased;

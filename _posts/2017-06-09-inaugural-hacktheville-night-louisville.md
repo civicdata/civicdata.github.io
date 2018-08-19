@@ -2,7 +2,6 @@
 layout: post
 title:  "Inaugural #HackTheVille"
 description: "Join us at the very first #HackTheVille Night"
-date: 2017-06-09
 categories: writing hacktheville
 tags: [louisville,hacktheville,metro,civic,hacking,2017,legislation,Kentucky,tech,civictech,cda]
 image:
