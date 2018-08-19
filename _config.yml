@@ -23,20 +23,21 @@ join_link: https://cda2.typeform.com/to/zTNiLP
 
 # Optional social link, you can choose from the following options:
 # twitter (default), instagram, medium, or dribbble
-social_link: twitter
-social_username: CivicDataAlly
-#twitter: CivicDataAlly
-#facebook: civicdata
+# social_link: cda
+# social_username: CivicDataAlly
+twitter: CivicDataAlly
+facebook: civicdata
 github: civicdata
 stackoverflow:
 linkedin:
-instagram: civicdataallaince
+instagram: civicdataalliance
 lastfm:
 tumblr:
 pinterest:
 foursquare:
 steam:
 dribbble:
+site: cda
 # For Google Authorship https://plus.google.com/authorship
 google_plus: 105717792509345258567
 meetup: Civic-Data-Alliance
