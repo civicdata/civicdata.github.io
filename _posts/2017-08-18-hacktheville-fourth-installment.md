@@ -2,7 +2,6 @@
 layout: post
 title: "Hack for Change Prep"
 description: "Join CDA and Louisville Metro's OPI2 for for National Day of Civic Hacking (NDoCH) Hack for Change project and event prep.  We will also have our basic civic hacking workshops available, if anyone needs help with git and Github, APIs, etc"
-date: 2017-09-03
 categories: hacktheville
 tags: [hacktheville,louisville,codeforamerica,cfa,hackathon,opendata,2017,Kentucky]
 image:

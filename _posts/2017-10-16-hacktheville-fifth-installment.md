@@ -2,7 +2,6 @@
 layout: post
 title: "City Multi-Platform Agent"
 description: "Join CDA and Louisville Metro's OPI2 and help build Louisville's Mulit-User Agent Platform"
-date: 2017-10-16
 categories: hacktheville
 tags: [hacktheville,louisville,civictech,codeforamerica,cfa,hackathon,opendata,2017,Kentucky,IFTTT,sms]
 image:

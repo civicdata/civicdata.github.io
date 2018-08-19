@@ -2,7 +2,6 @@
 layout: post
 title: "Eclipse #HackTheVille"
 description: "Join CDA and Louisville Metro's OPI2 for an Eclipse Standup & Storytelling with Carto mapping a planning/strategy session for the upcoming Health Data/Health IoT Hackathon. We will also have our basic civic hacking workshops available, if anyone needs help with git and Github, APIs, etc"
-date: 2017-08-06
 categories: hacktheville
 tags: [hacktheville,louisville,codeforamerica,cfa,hackathon,opendata,2017,Kentucky]
 image:
