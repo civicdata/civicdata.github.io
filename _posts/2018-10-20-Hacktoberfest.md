@@ -16,7 +16,7 @@ creditlink: http://www.cividataalliance.org
 
 ### OpenStreetMap 101 with Jeff McAdams + &#35;HackTheVille for &#35;Hacktoberfest 2018
 
-Learn how to add Points of Interest (POI) to [__OpenStreetMap__](https://www.openstreetmap.org/){:target="_blank"} (OSM) from [__Digital Ocean's__](https://www.digitalocean.com){:target="_blank"} own Jeff McAdams__ plus participate in [__&#35;Hacktoberfest__](https://hacktoberfest.digitalocean.com){:target="_blank"} at this installment of &#35;HackTheVille.
+Learn how to add Points of Interest (POI) to [__OpenStreetMap__](https://www.openstreetmap.org/){:target="_blank"} (OSM) from [__Digital Ocean's__](https://www.digitalocean.com){:target="_blank"} own Jeff McAdams plus participate in [__&#35;Hacktoberfest__](https://hacktoberfest.digitalocean.com){:target="_blank"} at this installment of &#35;HackTheVille.
 
 __Please RSVP for this event:__ <a class="button" target="_blank" style="color: #2C2D30;font-weight: bold;border-radius: 3px; background: #00c9cf; padding: 10px;text-align:center; margin:0 auto;" alt="Register Here!" title="hackathon tickets" href="https://www.meetup.com/Civic-Data-Alliance/events/255169443/" target="_blank">RSVP here!</a>
 
