@@ -1,7 +1,7 @@
 ---
 layout: 'post'
 title: 'OpenStreetMaps 101'
-categories: events Louisville
+categories: events hackathons hacktheville
 tags: [events]
 event_time: Oct 20, 1pm-3pm
 location: maker13 Jeffersonville, IN
