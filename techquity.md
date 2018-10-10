@@ -11,7 +11,6 @@ image:
   credit: system58.photos by david.alan.kidd
   creditlink: http://system58photos.com/
 ---
-# Techquity
 ## Tech for Good events, meetups and groups in our community
 
 [__Civic Data Alliance__](http://civicdataalliance.org) - Louisville's founding Civic Tech org, focused on advocating for inclusion, diversity, equity, accessibility, openness, transparency and accountability in government, civic tech and open data.|[__Meetup__](https://www.meetup.com/Civic-Data-Alliance)
