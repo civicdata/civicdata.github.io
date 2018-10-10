@@ -20,4 +20,4 @@ image:
 
 [__Louisville Sofware Engineers__](https://www.meetup.com/Louisville-Software-Engineering/) - The meetup for all things software engineering in Louisville. A group of language agnostic compassionate code advocates. |[__Meetup__](https://www.meetup.com/Louisville-Software-Engineering/)
 
-[__Code Louisville__](https://codelouisville.org/) - A group of language agnostic, compassionate code advocates. Code Louisville produces qualified, dedicated graduates to fill the high demand for talent in the software and tech marketplace throughout the Louisville, Kentucky area. Experienced software developers can contribute to this project as mentors for the students. |[__Learn More__](https://codelouisville.org/mentor)
+[__Code Louisville__](https://codelouisville.org/) - A group of language agnostic, compassionate code advocates. Code Louisville produces qualified, dedicated graduates to fill the high demand for talent in the software and tech marketplace throughout the Louisville, Kentucky area. Experienced software developers can contribute to this project as mentors for the students. |[__Visit__](https://codelouisville.org/mentor)
