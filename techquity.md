@@ -6,10 +6,6 @@ tagline: All the Data for We the People
 tags: [techquity]
 date: 10-09-2018
 comments: false
-image:
-  feature: texture-feature-02.jpg
-  credit: system58.photos by david.alan.kidd
-  creditlink: http://system58photos.com/
 ---
 ## Tech for Good events, meetups and groups in our community
 
