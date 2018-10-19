@@ -20,3 +20,5 @@ comments: false
 [__Louisville Makes Games__](louisvillemakesgames.org/) - The goal of Louisville Makes Games! is to promote game development as a viable career in our city through game development programming classes for children in the area. |[__Meetup__](https://www.meetup.com/LouisvilleMakesGames/)   
 
 [__WarpZone__](louisvillemakesgames.org/warpzone/) - Warp Zone Louisville is Kentucky’s first, and only, collaborative workspace focused on game creators! |[__Visit__](louisvillemakesgames.org/warpzone/) 
+
+[__Women Who Code__](https://www.womenwhocode.com/) - Women Who Code is an international non-profit organization that provides services for women pursuing technology careers and a job board for companies seeking coding professionals. The company aims to provide an avenue into the technology world by evaluating and assisting women developing technical skills.! |[__Visit__](https://www.womenwhocode.com/) 
