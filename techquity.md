@@ -26,3 +26,7 @@ comments: false
 [__WarpZone__](louisvillemakesgames.org/warpzone/) - Warp Zone Louisville is Kentucky’s first, and only, collaborative workspace focused on game creators! |[__Visit__](louisvillemakesgames.org/warpzone/) 
 
 [__Women Who Code__](https://www.womenwhocode.com/) - Women Who Code is an international non-profit organization that provides services for women pursuing technology careers and a job board for companies seeking coding professionals. The company aims to provide an avenue into the technology world by evaluating and assisting women developing technical skills.! |[__Visit__](https://www.womenwhocode.com/) 
+
+[__FOSSASIA__](https://events.fossasia.org/) - FOSSASIA events are the place software development gets done. If you rely on open technologies, open source and hardware development, you must be a part of FOSSASIA events.|[__Visit__](https://events.fossasia.org/) 
+
+[__Women Techmakers__](https://www.womentechmakers.com/) - From 2014 to present, Women Techmakers is continually launching global scalable initiatives and piloting new programs to support and empower women in the industry.|[__Visit__](https://www.womentechmakers.com/) 
