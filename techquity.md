@@ -26,3 +26,9 @@ comments: false
 [__WarpZone__](louisvillemakesgames.org/warpzone/) - Warp Zone Louisville is Kentucky’s first, and only, collaborative workspace focused on game creators! |[__Visit__](louisvillemakesgames.org/warpzone/) 
 
 [__Women Who Code__](https://www.womenwhocode.com/) - Women Who Code is an international non-profit organization that provides services for women pursuing technology careers and a job board for companies seeking coding professionals. The company aims to provide an avenue into the technology world by evaluating and assisting women developing technical skills.! |[__Visit__](https://www.womenwhocode.com/) 
+
+[__DevFest__](https://devfest.withgoogle.com/) - DevFests are community-led, developer events hosted by GDG chapters around the globe focused on community building and learning about Google’s technologies. Each DevFest is inspired by and uniquely tailored to the needs of the developer community and region that hosts it.[__Meetup__](https://devfest.withgoogle.com/)
+
+[__Women Techmakers__](https://www.womentechmakers.com/) - Women Techmakers is Google’s global program designed to provide visibility, community and resources for women in technology. Its goal is to showcase the work of women in the technology industry by providing a platform to celebrate their talents and spotlight role models.[__Meetup__](https://www.womentechmakers.com/)
+
+[__She Codes;__](https://she-codes.org/) - she codes; is a community of women in technology, created to achieve an equal number of female and male software developers in Israel. Our members include women who want to learn software development or make a career shift into high-tech, developers who want to advance their skills and network with other women in high-tech and high school students who are learning to program. Our core values are Believe in Yourself, Perseverance, and Community. [__Visit__](https://she-codes.org/)
