@@ -23,6 +23,6 @@ comments: false
 
 [NY JavaScript](https://www.meetup.com/NY-JavaScript/) - We host regular workshops and tech talks on a variety of different JavaScript topics.
 
-[__WarpZone__](louisvillemakesgames.org/warpzone/) - Warp Zone Louisville is Kentucky’s first, and only, collaborative workspace focused on game creators! |[__Visit__](http://louisvillemakesgames.org/warpzone/) 
+[__WarpZone__](http://louisvillemakesgames.org/warpzone/) - Warp Zone Louisville is Kentucky’s first, and only, collaborative workspace focused on game creators! |[__Visit__](http://louisvillemakesgames.org/warpzone/) 
 
 [__Women Who Code__](https://www.womenwhocode.com/) - Women Who Code is an international non-profit organization that provides services for women pursuing technology careers and a job board for companies seeking coding professionals. The company aims to provide an avenue into the technology world by evaluating and assisting women developing technical skills.! |[__Visit__](https://www.womenwhocode.com/) 
