@@ -11,10 +11,14 @@
       <li class="inline-block mr-1">
         <a href="https://twitter.com/share" class="twitter-share-button" data-hashtags="{{ site.title }}">Tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
       </li>
-      <li class="inline-block">
-        <a class="github-button" href="https://github.com/{{ site.github_username }}/{{ site.github_repo }}" data-icon="octicon-star" data-count-href="{{ site.github_username }}/{{ github_repo }}/stargazers" data-count-api="/repos/{{ site.github_username }}/{{ github_repo }}#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star {{ site.github_username }}/{{ github_repo }} on GitHub">Star</a>
-      </li>
-    </ul>
+      <li class= "inline-block">
+      <iframe src="http://ghbtns.com/github-btn.html?user={{ site.github_username }}&repo={{ site.github_repo }}&type=fork&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="25"></iframe>
+   </li>
+   <li class= "inline-block">
+    <iframe src="http://ghbtns.com/github-btn.html?user={{ site.github_username }}&repo={{ site.github_repo }}&type=star&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="110" height="25"></iframe>
+ </li>
+      </ul>
+
   </div>
 
 <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })()</script>
