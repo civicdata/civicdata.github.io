@@ -26,6 +26,14 @@ comments: false
 [__WarpZone__](louisvillemakesgames.org/warpzone/) - Warp Zone Louisville is Kentucky’s first, and only, collaborative workspace focused on game creators! |[__Visit__](louisvillemakesgames.org/warpzone/) 
 
 [__Women Who Code__](https://www.womenwhocode.com/) - Women Who Code is an international non-profit organization that provides services for women pursuing technology careers and a job board for companies seeking coding professionals. The company aims to provide an avenue into the technology world by evaluating and assisting women developing technical skills.! |[__Visit__](https://www.womenwhocode.com/) 
+
+[__FOSSASIA__](https://events.fossasia.org/) - FOSSASIA events are the place software development gets done. If you rely on open technologies, open source and hardware development, you must be a part of FOSSASIA events.|[__Visit__](https://events.fossasia.org/) 
+
+[__Women Techmakers__](https://www.womentechmakers.com/) - From 2014 to present, Women Techmakers is continually launching global scalable initiatives and piloting new programs to support and empower women in the industry.|[__Visit__](https://www.womentechmakers.com/) 
+
 [__Blockchain for Social Impact__](https://www.blockchainforsocialimpact.com/) - Blockchain for Social Impact Coalition (BSIC) incubates, develops, and implements confederated blockchain products and solutions that can address social and environmental challenges across the United Nation’s Sustainable Development Goals. [__Visit__](https://www.blockchainforsocialimpact.com/contact/)
+
 [__Women in Blockchain__](https://womeninblockchainglobal.org/) - Women in Blockchain Global is a new and developing global support system for women in blockchain. We consist of students, researchers, developers, individuals seeking a career change, and professional women. Our organization is accepting of all educational and professional backgrounds. Everyone is welcomed. [__Visit__](https://womeninblockchainglobal.org/index.html)
+
 [__Google Developers Group__](https://developers.google.com/programs/community/gdg/) - The GDG platform is a membership level within the wider Google Developers Community Groups program and it offers tailored support to organizers of local GDG chapters. GDGs are local groups of developers who are specifically interested in Google products and APIs. Each local group is called a GDG chapter and can host a variety of technical activities for developers - from just a few people getting together to watch our latest videos, to large gatherings with demos and tech talks, to hackathons.Google Developers supports and recognizes GDG chapters, but doesn’t own or manage them. [__Visit__](https://developers.google.com/programs/community/gdg/apply/)
+
