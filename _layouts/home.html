@@ -1,71 +1,86 @@
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
+<body>
 
     <div>
 
-      <header class="header-background">
+        <header class="header-background">
 
-        <div class="clearfix border-bottom-thick header-border">
-          <ul class="list-reset right py-1 header-text font-smoothing">
-            {% for my_page in site.pages %}
-              {% if my_page.title %}
-              <li class="inline-block">
-                <a class="align-middle link-primary header-link mr-2" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-              </li>
-              {% endif %}
+            <div class="clearfix border-bottom-thick header-border">
+                <ul class="list-reset right py-1 header-text font-smoothing">
+                    {% for my_page in site.pages %}
+                    {% if my_page.title %}
+                    <li class="inline-block">
+                        <a class="align-middle link-primary header-link mr-2" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+                    </li>
+                    {% endif %}
+                    {% endfor %}
+                </ul>
+            </div>
+
+            <div class="container mx-auto px-2 mb-2 clearfix header-text">
+                <h1 class="h0 inline-block col-9 sm-width-full py-4 mt-3 header-title">{{ site.title }}</h1>
+
+                <div class="clearfix mb-4 py-1">
+                    <div class="col-4 sm-width-full left border-top-thin">
+                        <div class="table">
+                            <div class="inline-block mt-3 mr-1">
+                                {% include civic-data-alliance-join.html %}
+                            </div>
+                            <div class="inline-block mt-3">
+                                {% include github.html %}
+                            </div>
+                        </div>
+                        <!-- Set site description in config.yml -->
+                        <p class="h3 lh-condensed font-smoothing mt-2 py-1">{{ site.description}}
+                        </p>
+                    </div>
+
+                    <div class="col-4 sm-width-full left border-top-thin mt-3 mt-lg-0 ml-lg-4 table">
+                        <div class="inline-block mt-3 mr-1">
+                            {% include {{ site.social_link | default: "twitter" }}.html %}
+                        </div>
+                        <div class="inline-block mt-3 mr-1">
+                            {% include instagram.html %}
+                        </div>
+                        <div class="inline-block mt-3 mr-1">
+                            {% include meetup.html %}
+                        </div>
+                        <a class="link-primary" href="https://cda2.typeform.com/to/zTNiLP" target="_blank">
+                            <p class="h3 lh-condensed font-smoothing mt-2 py-1">JOIN US</p>
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+        </header>
+
+
+        <div class="container mx-auto px-2 py-4">
+            <h2 class="h1 lh-condensed col-9 mt-0">Local COVID-19 Cases Community Mapping Project</h2>
+            <p>Contribute on Github at <a href="https://github.com/civicdata/ky-area-covid-19">https://github.com/civicdata/ky-area-covid-19</a></p>
+            <div id='map' style='max-width: 1440px; height: 50em;'></div>
+
+            {% for post in site.posts limit: 3 %}
+            {% include post_block.html %}
             {% endfor %}
-          </ul>
         </div>
-
-        <div class="container mx-auto px-2 mb-2 clearfix header-text">
-          <h1 class="h0 inline-block col-9 sm-width-full py-4 mt-3 header-title">{{ site.title }}</h1>
-
-          <div class="clearfix mb-4 py-1">
-            <div class="col-4 sm-width-full left border-top-thin">
-              <div class="table">
-                <div class="inline-block mt-3 mr-1">
-                  {% include civic-data-alliance-join.html %}
-                </div>
-                <div class="inline-block mt-3">
-                  {% include github.html %}
-                </div>
-              </div>
-              <!-- Set site description in config.yml -->
-              <p class="h3 lh-condensed font-smoothing mt-2 py-1">{{ site.description}}
-             </p>
-            </div>
-
-            <div class="col-4 sm-width-full left border-top-thin mt-3 mt-lg-0 ml-lg-4 table">
-                <div class="inline-block mt-3 mr-1">
-                  {% include {{ site.social_link | default: "twitter" }}.html %}
-                </div>
-                <div class="inline-block mt-3 mr-1">
-                  {% include instagram.html %}
-                </div>
-                <div class="inline-block mt-3 mr-1">
-                  {% include meetup.html %}
-                </div>
-                <a class="link-primary" href="https://cda2.typeform.com/to/zTNiLP" target="_blank"><p class="h3 lh-condensed font-smoothing mt-2 py-1">JOIN US</p></a>
-            </div>
-          </div>
-
-        </div>
-      </header>
-
-      <div class="container mx-auto px-2 py-4">
-        {% for post in site.posts limit: 3 %}
-          {% include post_block.html %}
-        {% endfor %}
-      </div>
 
     </div>
 
     {% include footer.html %}
 
-  </body>
+    <script>
+        mapboxgl.accessToken = 'pk.eyJ1IjoiY2l2aWNkYXRhYWxseSIsImEiOiI2ZGJjZTIyN2FjODA1MWUwNTM2NGVkMDJkOTg1ZGEzMiJ9.knVrcTIOM6xUxCOqtyFcaw';
+        var map = new mapboxgl.Map({
+            container: 'map',
+            style: 'mapbox://styles/civicdataally/ck7mjpne200cv1ilhrqh4vmn1'
+        });
+    </script>
+
+</body>
 
 </html>
