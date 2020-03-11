@@ -60,8 +60,24 @@
 
 
         <div class="container mx-auto px-2 py-4">
-            <h2 class="h1 lh-condensed col-9 mt-0">Local COVID-19 Cases Community Mapping Project</h2>
+            <h2 class="h1 lh-condensed col-12 mt-0">Local COVID-19 Cases Community Mapping Project</h2>
             <p>Contribute on Github at <a href="https://github.com/civicdata/ky-area-covid-19">https://github.com/civicdata/ky-area-covid-19</a></p>
+            <p>Data,thus far, has been sourced from:
+                <ul>
+                    <li>
+                        <a href="https://chfs.ky.gov/agencies/dph/pages/covid19.aspx">CHFS.ky.gov</a>
+                    </li>
+                    <li>
+                        <a href="https://www.lexingtonky.gov/coronavirus-response">lexingtonky.gov</a>
+                    </li>
+                    <li>
+                        <a href="https://www.cynthianademocrat.com/content/harrison-county-ground-zero-first-covid-19-case-kentucky">Cynthiana Democrat</a>
+                    </li>
+                    <li>
+                        <a href="https://www.courier-journal.com/story/news/local/2020/03/10/coronavirus-beshear-wants-kentucky-nursing-homes-restrict-visits/5006147002/">The Courier Journal</a>
+                    </li>
+                </ul>
+            </p>
             <div id='map' style='max-width: 1440px; height: 50em;'></div>
 
             {% for post in site.posts limit: 3 %}

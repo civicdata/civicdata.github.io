@@ -24,6 +24,7 @@ dl, dd, ol, ul, figure {
 }
 
 
+
 /**
  * Basic styling
  */
@@ -60,6 +61,19 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+#map{
+    margin-top: 3em;
+}
+
+ul > li{
+    list-style-type: none;
+    margin: 0 auto;
+        a{
+            color: $blue-small;
+        }
+}
+
 
 .responsiveCal {
     position: relative;
