@@ -62,6 +62,10 @@
         <div class="container mx-auto px-2 py-4">
             <h2 class="h1 lh-condensed col-12 mt-0">Local COVID-19 Cases Community Mapping Project</h2>
             <p>Contribute on Github at <a href="https://github.com/civicdata/ky-area-covid-19">https://github.com/civicdata/ky-area-covid-19</a></p>
+            <p><a href="https://chfs.ky.gov/agencies/dph/pages/covid19.aspx">Kentucky COVID-19 Website</a> | COVID-19 Hotline <a href="tel:1-800-722-5725">1-800-722-5725</a></p>
+            <p>For the latest information and prevention updates, <a href="https://www.cdc.gov/coronavirus/2019-nCoV/index.html">visit the Centers for Disease Control and Prevention</a></p>
+            <div id='map' style='max-width: 1440px; height: 50em;'></div>
+
             <p>Data,thus far, has been sourced from:
                 <ul>
                     <li>
@@ -76,9 +80,11 @@
                     <li>
                         <a href="https://www.courier-journal.com/story/news/local/2020/03/10/coronavirus-beshear-wants-kentucky-nursing-homes-restrict-visits/5006147002/">The Courier Journal</a>
                     </li>
+                    <li>
+                        <a href="https://github.com/civicdata/ky-area-covid-19/blob/master/README.md">And all the links in our README</a>
+                    </li>
                 </ul>
             </p>
-            <div id='map' style='max-width: 1440px; height: 50em;'></div>
 
             {% for post in site.posts limit: 3 %}
             {% include post_block.html %}
