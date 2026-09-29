@@ -9,7 +9,7 @@ image:
   feature: banner8.jpg
 comments: true
 credit: OPI2/LouieLab
-creditlink: http://www.cividataalliance.org
+creditlink: http://www.civicdataalliance.org
 ---
 
 # Amazon Web Services's City on a Cloud Award Winner

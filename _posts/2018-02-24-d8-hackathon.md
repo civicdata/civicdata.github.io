@@ -11,7 +11,7 @@ image:
   feature:
 comments: true
 credit: CDA/CfA
-creditlink: http://www.cividataalliance.org
+creditlink: http://www.civicdataalliance.org
 ---
 
 Join us for a special hackathon co-sponsored by District 8 Metro Councilmember Brandon Coan! This hackathon will address issues specific to this district. Potential datasets for projects include:  

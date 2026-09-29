@@ -9,7 +9,7 @@ image:
   feature: banner3.jpg
 comments: true
 credit: CDA/LVL1/OPI2/Gigabit Experience Center
-creditlink: http://www.cividataalliance.org
+creditlink: http://www.civicdataalliance.org
 ---
 
 # Community IoT Hackathon at the Gigabit Experience Center

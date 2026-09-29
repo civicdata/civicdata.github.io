@@ -58,65 +58,75 @@
             </div>
         </header>
 
-        <div class="container mx-auto py-4">
+        <main class="container mx-auto px-3 py-4">
 
-        </div>
+            <section class="mb-5">
+                <h2 class="mt-4 mb-3">What we do</h2>
+                <p class="lead">The Civic Data Alliance is Louisville's civic tech organization. We advocate for inclusion, diversity, equity, accessibility, openness, transparency and accountability in government, civic tech and open data.</p>
+                <p>We work to ethically liberate, improve, gather, define and report on public data, and to grow an inclusive civic tech community.</p>
+            </section>
 
-    <div class="row mb-5">
-        <div class="col-md-6 col-lg-4">
-           
-        </div>
+            <section class="row mb-5">
+                <div class="col-md-6 col-lg-4 mb-4">
+                    <div class="card h-100">
+                        <div class="card-body d-flex flex-column">
+                            <h5 class="card-title">Get Involved</h5>
+                            <p class="card-text">Volunteers of every skill level are welcome: coders, designers, researchers, organizers and curious neighbors.</p>
+                            <div class="mt-auto">
+                                <a href="{{ site.join_link }}" class="btn btn-danger" target="_blank" rel="noopener">Join us</a>
+                                <a href="https://civicdataally.slack.com/" class="btn btn-outline-dark ml-1" target="_blank" rel="noopener">Slack</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
-        <div class="col-md-6 col-lg-4">
-           
-        </div>
+                <div class="col-md-6 col-lg-4 mb-4">
+                    <div class="card h-100">
+                        <div class="card-body d-flex flex-column">
+                            <h5 class="card-title">Projects</h5>
+                            <p class="card-text">Open source tools, maps and datasets built by our community. Everything we make lives on GitHub.</p>
+                            <div class="mt-auto">
+                                <a href="{{ '/projects/' | prepend: site.baseurl }}" class="btn btn-danger">Browse projects</a>
+                                <a href="https://github.com/{{ site.github_username }}" class="btn btn-outline-dark ml-1" target="_blank" rel="noopener">GitHub</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
-        <div class="col-md-6 col-lg-4">
-          
-        </div>
-    </div>
+                <div class="col-md-6 col-lg-4 mb-4">
+                    <div class="card h-100">
+                        <div class="card-body d-flex flex-column">
+                            <h5 class="card-title">Our Values</h5>
+                            <p class="card-text">Ethical, accountable open data practices and a welcoming community. All members and participants follow our Code of Conduct.</p>
+                            <div class="mt-auto">
+                                <a href="{{ '/about/' | prepend: site.baseurl }}" class="btn btn-danger">About us</a>
+                                <a href="https://github.com/{{ site.github_username }}/{{ site.github_repo }}/blob/master/CODE_OF_CONDUCT.md" class="btn btn-outline-dark ml-1" target="_blank" rel="noopener">Code of Conduct</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
 
-    <div class="row mb-5">
-        <div class="col-md-6 col-lg-4">
-            
-        </div>
+            <hr>
 
-        <div class="col-md-6 col-lg-4">
-            
-        </div>
-        <div class="col-md-6 col-lg-4">
+            <section class="mt-5">
+                <p class="text-muted text-uppercase small mb-1">Archive &middot; 2020</p>
+                <h2 class="mb-3">COVID-19 Community Mapping Project</h2>
+                <p>In early 2020 our volunteers mapped local COVID-19 cases across the Kentucky area. The map and data below are preserved as a historical record and are no longer updated. The project source is on GitHub at <a href="https://github.com/civicdata/ky-area-covid-19">civicdata/ky-area-covid-19</a>.</p>
 
-        </div>
-    </div>
-<hr>
-        
-            <h2 class="lh-condensed col-12 mt-5 ml-n3">Local COVID-19 Cases Community Mapping Project</h2>
-            <p>Contribute on Github at <a href="https://github.com/civicdata/ky-area-covid-19">https://github.com/civicdata/ky-area-covid-19</a></p>
-            <p><a href="https://chfs.ky.gov/agencies/dph/pages/covid19.aspx">Kentucky COVID-19 Website</a> | COVID-19 Hotline <a href="tel:1-800-722-5725">1-800-722-5725</a></p>
-            <p>For the latest information and prevention updates, <a href="https://www.cdc.gov/coronavirus/2019-nCoV/index.html">visit the Centers for Disease Control and Prevention</a></p>
-            <div id='map' style='max-width: 1440px; height: 50em;'></div>
+                <div id="map" style="max-width: 1440px; height: 50em;"></div>
 
-            <p>Data,thus far, has been sourced from:
+                <p class="mt-3">Data was sourced from:</p>
                 <ul>
-                    <li>
-                        <a href="https://chfs.ky.gov/agencies/dph/pages/covid19.aspx">CHFS.ky.gov</a>
-                    </li>
-                    <li>
-                        <a href="https://www.lexingtonky.gov/coronavirus-response">lexingtonky.gov</a>
-                    </li>
-                    <li>
-                        <a href="https://www.cynthianademocrat.com/content/harrison-county-ground-zero-first-covid-19-case-kentucky">Cynthiana Democrat</a>
-                    </li>
-                    <li>
-                        <a href="https://www.courier-journal.com/story/news/local/2020/03/10/coronavirus-beshear-wants-kentucky-nursing-homes-restrict-visits/5006147002/">The Courier Journal</a>
-                    </li>
-                    <li>
-                        <a href="https://github.com/civicdata/ky-area-covid-19/blob/master/README.md">And all the links in our README</a>
-                    </li>
+                    <li><a href="https://chfs.ky.gov/agencies/dph/pages/covid19.aspx">CHFS.ky.gov</a></li>
+                    <li><a href="https://www.lexingtonky.gov/coronavirus-response">lexingtonky.gov</a></li>
+                    <li><a href="https://www.cynthianademocrat.com/content/harrison-county-ground-zero-first-covid-19-case-kentucky">Cynthiana Democrat</a></li>
+                    <li><a href="https://www.courier-journal.com/story/news/local/2020/03/10/coronavirus-beshear-wants-kentucky-nursing-homes-restrict-visits/5006147002/">The Courier Journal</a></li>
+                    <li><a href="https://github.com/civicdata/ky-area-covid-19/blob/master/README.md">And all the links in the project README</a></li>
                 </ul>
-            </p>
+            </section>
 
-        </div>
+        </main>
 
     </div>
 

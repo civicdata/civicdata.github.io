@@ -9,7 +9,7 @@ image:
   feature: banner2.jpg
 comments: true
 credit: CDA/LVL1/OPI2/LouieLab
-creditlink: http://www.cividataalliance.org
+creditlink: http://www.civicdataalliance.org
 ---
 
 It's time to #HackTheVille, ya'll!

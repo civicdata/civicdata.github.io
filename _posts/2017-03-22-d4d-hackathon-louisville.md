@@ -9,7 +9,7 @@ image:
   feature: d4d-img.jpg
 comments: true
 credit: Margeaux Spring/Robert Kahne/Eric Bickel/LouieLab
-creditlink: http://www.cividataalliance.org
+creditlink: http://www.civicdataalliance.org
 ---
 
 [__Data For Democracy__](http://datafordemocracy.org/) has announced their very first Data For Democracy Global Hackathon and Louisville is one of only seven cities hosting an onsite event, so yasssss and big ups to [__Louisville Metro__](http://data.louisvilleky.gov/) and [_OPI's LouieLab_](https://louisvilleky.gov/government/performance-improvement-innovation) for generously donating their space for the event.

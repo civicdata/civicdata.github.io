@@ -8,7 +8,7 @@ image:
   feature: banner3.jpg
 comments: true
 credit: CDA/LVL1/OPI2/LouieLab
-creditlink: http://www.cividataalliance.org
+creditlink: http://www.civicdataalliance.org
 ---
 
 # Eclipse Standup & Storytelling with Carto mapping at HackTheVille  

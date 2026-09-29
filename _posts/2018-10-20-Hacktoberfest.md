@@ -11,7 +11,7 @@ image:
   feature:
 comments: true
 credit: CDA
-creditlink: http://www.cividataalliance.org
+creditlink: http://www.civicdataalliance.org
 ---
 
 ### OpenStreetMap 101 with Jeff McAdams + &#35;HackTheVille for &#35;Hacktoberfest 2018

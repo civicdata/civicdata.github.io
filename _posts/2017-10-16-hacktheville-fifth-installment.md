@@ -8,7 +8,7 @@ image:
   feature: banner7.jpg
 comments: true
 credit: CDA/OPI2/LouieLab
-creditlink: http://www.cividataalliance.org
+creditlink: http://www.civicdataalliance.org
 ---
 # City Multi-Platform Agent #HackTheVille
 ## It's time to #HackTheVille, ya'll!  

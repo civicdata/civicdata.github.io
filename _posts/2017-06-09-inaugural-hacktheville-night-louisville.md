@@ -8,7 +8,7 @@ image:
   # feature: d4d-img.jpg
 comments: true
 credit: Margeaux Spring/Becky Steele/Robert Kahne/Ed Blaney/Pat Smith/Chris Harrell/Matt Gotth-Olsen
-creditlink: http://www.cividataalliance.org
+creditlink: http://www.civicdataalliance.org
 ---
 
 ## Come help #HackTheVille:
