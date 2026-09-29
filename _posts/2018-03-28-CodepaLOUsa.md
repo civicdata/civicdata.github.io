@@ -11,7 +11,7 @@ image:
   feature:
 comments: true
 credit: CDA
-creditlink: http://www.cividataalliance.org
+creditlink: http://www.civicdataalliance.org
 ---
 
 ### Code PaLOUsa 2018

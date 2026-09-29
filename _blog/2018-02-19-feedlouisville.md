@@ -8,7 +8,7 @@ image:
   feature:
 comments: true
 credit: CDA
-creditlink: http://www.cividataalliance.org
+creditlink: http://www.civicdataalliance.org
 ---
 
 ### Feed Louisville — A Journey into Food Justice

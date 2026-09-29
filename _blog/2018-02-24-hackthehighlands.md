@@ -8,7 +8,7 @@ image:
   feature:
 comments: true
 credit: CDA/CfA
-creditlink: http://www.cividataalliance.org
+creditlink: http://www.civicdataalliance.org
 ---
 
 For the second weekend in a row, Civic Data Alliance members gathered in hackathon form to tackle some of Louisville’s problems. Our focus for this event, sponsored by Councilperson Brandon Coan, was on District 8, locally known as “The Highlands”, and the many problems surrounding this popular area of town.  

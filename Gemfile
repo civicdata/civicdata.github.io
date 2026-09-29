@@ -1,9 +1,6 @@
 source "https://rubygems.org"
-gemspec
-gem 'coderay'
-gem 'thor'
-gem 'activesupport'
-gem 'stringex'
-gem "jekyll-paginate"
-gem "feedjira"
-gem "jekyll-display-medium-posts"
+
+# Match the GitHub Pages build environment for local preview:
+#   bundle install && bundle exec jekyll serve
+gem "github-pages", group: :jekyll_plugins
+gem "webrick"

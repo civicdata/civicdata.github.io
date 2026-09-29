@@ -9,14 +9,14 @@ image:
   feature: d4d-img.jpg
 comments: true
 credit: CDA/BLM/D4D
-creditlink: http://www.cividataalliance.org
+creditlink: http://www.civicdataalliance.org
 ---
 # Annual Data for Democracy Hackathon in Louisville
 [__Data For Democracy__](http://datafordemocracy.org/) has announced the next Data For Democracy Global Hackathon and Louisville is one of only nine cities hosting an onsite event, so yasssss!  
 
 <a class="button" target="_blank" style="color: #2C2D30;font-weight: bold;border-radius: 3px; background: #00c9cf; padding: 10px;text-align:center;" alt="Register Here!" title="hackathon tickets" href="https://www.meetup.com/Louisville-Civic-Data-Alliance/events/242296870/">Get your tickets</a>
 
-Come represent the Ville and hack with [__Data For Democracy__](http://datafordemocracy.org/), [__Black Lives Matter Louisville__](https://www.facebook.com/blacklivesmatterlouisville/), [__Mijente__](http://mijente.net/) and [__Civic Data Alliance__](http://www.cividataalliance.org) for D4D's global hackathon at the always awesome space, LouieLab.  
+Come represent the Ville and hack with [__Data For Democracy__](http://datafordemocracy.org/), [__Black Lives Matter Louisville__](https://www.facebook.com/blacklivesmatterlouisville/), [__Mijente__](http://mijente.net/) and [__Civic Data Alliance__](http://www.civicdataalliance.org) for D4D's global hackathon at the always awesome space, LouieLab.  
 
 This is a hackathon to confront data security issues faced by those who are targets of threats and violence from the alt-right. At this event, different groups will share the unique data security threats they face from the alt-right. As a community, we will identify ways and attempt to build solutions to counter these efforts. Also available - projects that focus on identifying and countering fake news distributed by alt-right. 
 

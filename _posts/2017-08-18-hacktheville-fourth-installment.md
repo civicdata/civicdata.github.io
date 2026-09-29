@@ -8,7 +8,7 @@ image:
   feature: banner6.jpg
 comments: true
 credit: CDA/LVL1/OPI2/LouieLab
-creditlink: http://www.cividataalliance.org
+creditlink: http://www.civicdataalliance.org
 ---
 # Hack for Change event prep #HackTheVille
 ## It's time to #HackTheVille, ya'll!  

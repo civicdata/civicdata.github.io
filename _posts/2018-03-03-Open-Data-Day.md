@@ -11,7 +11,7 @@ image:
   feature:
 comments: true
 credit: CDA/D4D
-creditlink: http://www.cividataalliance.org
+creditlink: http://www.civicdataalliance.org
 ---
 
 What is open data?

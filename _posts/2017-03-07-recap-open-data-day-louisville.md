@@ -9,7 +9,7 @@ image:
   feature: banner-open-data-day2017.jpg
 comments: true
 credit: Margeaux Spring/Robert Kahne/Becky Steele/Greg Fischer
-creditlink: http://www.cividataalliance.org
+creditlink: http://www.civicdataalliance.org
 ---
 The [__Civic Data Alliance__](http://www.codeforamerica.org/brigade/Civic-Data-Alliance/) held its sixth annual [__CodeAcross/Open Data__](https://www.meetup.com/Louisville-Civic-Data-Alliance/events/237373228/) event, Open Data Day, which coincided with [__International Open Data Day__](http://opendataday.org).  It was a weekend of civic hacking events hosted by over 250 cities around the world.  The goal was to open public data and inspire residents everywhere to get actively involved in their community, and Louisville delivered.
 

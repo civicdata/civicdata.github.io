@@ -11,7 +11,7 @@ image:
   feature:
 comments: true
 credit: CDA/CfA
-creditlink: http://www.cividataalliance.org
+creditlink: http://www.civicdataalliance.org
 ---
 __Please RSVP for this event:__ <a class="button" target="_blank" style="color: #2C2D30;font-weight: bold;border-radius: 3px; background: #00c9cf; padding: 10px;text-align:center; margin:0 auto;" alt="Register Here!" title="hackathon tickets" href="https://www.meetup.com/Louisville-Civic-Data-Alliance/events/247089007/">RSVP here!</a>
 

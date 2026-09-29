@@ -9,7 +9,7 @@ tags: [louisville,hackathon,codeacross,2016]
 comments: true
 image:
   feature: banner-codeacross2016.png
-  creditlink: http://www.cividataalliance.org
+  creditlink: http://www.civicdataalliance.org
 ---
 
 This event was timed to coincide with [International Open Data Day](http://opendataday.org/).  The day brought together local government leaders and staff, local organizations, non-profits, businesses, visitors, and community members and was focused on volunteer civic innovation.

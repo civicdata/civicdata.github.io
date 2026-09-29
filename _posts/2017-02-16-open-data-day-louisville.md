@@ -7,7 +7,7 @@ categories: hackathons
 tags: [louisville,hackathon,opendata,opendataday,2017]
 comments: true
 credit: Margeaux Spring
-creditlink: http://www.cividataalliance.org
+creditlink: http://www.civicdataalliance.org
 ---
 # [CLICK HERE TO REGISTER](https://www.meetup.com/Louisville-Civic-Data-Alliance/events/237373228/)
 
